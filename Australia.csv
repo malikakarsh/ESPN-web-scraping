@@ -2,7 +2,7 @@ Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,
 Sean Anthony Abbott,Australia,28,Male,Bowler,Right-hand bat,Right-arm fast-medium,54,442,39,10.52,407,108.59,0,26,17,51,0,89,108,22.00,8.49,15.5
 Alex Tyson Carey,Australia,29,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,67,1720,100,29.65,1325,129.81,1,157,51,58,13,-,-,-,-,-
 Cameron Green,Australia,21,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,9,106,36,15.14,98,108.16,0,7,0,4,0,1,0,-,10.50,-
-Moises Constantino Henriques,Australia,33,Male,Moey,Allrounder,Right-hand bat,187,3836,77,26.63,3002,127.78,0,294,115,93,0,150,111,29.98,8.29,21.6
+Moises Constantino Henriques,Australia,33,Male,Allrounder,Right-hand bat,Right-arm fast,187,3836,77,26.63,3002,127.78,0,294,115,93,0,150,111,29.98,8.29,21.6
 Mitchell Ross Marsh,Australia,29,Male,Allrounder,Right-hand bat,Right-arm medium,88,1969,93*,29.83,1590,123.83,0,115,89,37,0,69,49,28.24,8.51,19.8
 James Lee Pattinson,Australia,30,Male,Bowler,Left-hand bat,Right-arm fast-medium,22,106,27*,8.15,105,100.95,0,5,4,14,0,49,58,25.06,8.41,17.8
 Daniel Richard Sams,Australia,28,Male,Allrounder,Right-hand bat,Left-arm fast-medium,36,308,65*,10.62,229,134.49,0,17,19,15,0,43,57,20.96,8.41,14.9
@@ -25,7 +25,7 @@ Travis Michael Head,Australia,26,Male,Middle-order batsman,Left-hand bat,Right-a
 Nathan Michael Lyon,Australia,33,Male,Bowler,Right-hand bat,Right-arm offbreak,16,55,11,6.11,59,93.22,0,4,0,14,0,44,54,20.51,7.21,17.0
 Timothy David Paine,Australia,36,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,74,1637,91,23.05,1335,122.62,0,161,44,56,15,-,-,-,-,-
 Kane William Richardson,Australia,29,Male,Bowler,Right-hand bat,Right-arm fast-medium,37,292,45,14.60,252,115.87,0,15,11,46,0,111,135,23.65,7.90,17.9
-Steven Peter Devereux Smith,Australia,31,Male,Steve Smith,Middle-order batsman,Right-hand bat,185,4438,101,30.60,3511,126.4,1,393,103,111,0,52,54,19.55,7.68,15.2
+Steven Peter Devereux Smith,Australia,31,Male,Middle-order batsman,Right-hand bat,Right-arm fast,185,4438,101,30.60,3511,126.4,1,393,103,111,0,52,54,19.55,7.68,15.2
 Marcus Peter Stoinis,Australia,31,Male,Middle-order batsman,Right-hand bat,Right-arm medium,125,2947,147*,31.68,2242,131.44,1,247,98,34,0,91,75,26.64,8.84,18.0
 Andrew James Tye,Australia,34,Male,Bowler,Right-hand bat,Right-arm medium-fast,59,423,42,11.43,353,119.83,0,26,22,49,0,144,197,21.98,8.07,16.3
 Adam Zampa,Australia,28,Male,Bowler,Right-hand bat,Legbreak googly,49,171,17*,6.10,200,85.5,0,14,2,24,0,154,179,22.11,7.26,18.2
