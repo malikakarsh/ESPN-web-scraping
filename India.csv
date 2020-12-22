@@ -1,0 +1,30 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Mayank Anurag Agarwal,India,29,Male,Batsman,Right-hand bat,Right-arm offbreak,142,3393,111,25.70,2518,134.74,2,331,122,56,0,1,0,-,8.00,-
+Yuzvendra Singh Chahal,India,30,Male,Bowler,Right-hand bat,Legbreak googly,32,56,10,4.30,101,55.44,0,1,0,48,0,188,214,23.78,7.56,18.8
+Shreyas Santosh Iyer,India,26,Male,Top-order batsman,Right-hand bat,Legbreak googly,142,3854,147,31.85,2967,129.89,2,317,164,58,0,3,1,72.00,10.53,41.0
+Virat Kohli,India,32,Male,Top-order batsman,Right-hand bat,Right-arm medium,284,9500,113,41.30,7092,133.95,5,838,302,132,0,44,8,82.62,8.73,56.7
+Thangarasu Natarajan,India,29,Male,Bowler,Left-hand bat,Left-arm medium,4,5,3*,5.00,10,50,0,0,0,13,0,41,41,25.90,7.47,20.7
+Ravindrasinh Anirudhsinh Jadeja,India,32,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,176,2586,50,23.72,2038,126.88,0,186,92,93,0,222,164,30.93,7.65,24.2
+Deepak Lokandersingh Chahar,India,28,Male,Deepak Chahar,Bowler,Right-hand bat,37,247,55*,11.76,192,128.64,0,12,18,16,0,92,108,22.52,7.41,18.2
+Ravichandran Ashwin,India,34,Male,Bowling allrounder,Right-hand bat,Right-arm offbreak,91,751,46,13.41,654,114.83,0,71,18,58,0,244,248,24.64,6.92,21.3
+Gade Hanuma Vihari,India,27,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,73,1355,81,20.84,1206,112.35,0,119,31,29,2,32,22,22.72,7.35,18.5
+Prithvi Pankaj Shaw,India,21,Male,Opening batsman,Right-hand bat,Right-arm offbreak,51,1200,99,23.52,819,146.52,0,132,54,13,0,-,-,-,-,-
+Sanju Viswanath Samson,India,26,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,160,3904,102*,26.92,3019,129.31,2,295,169,86,14,1,1,4.00,8.00,3.0
+Kannaur Lokesh Rahul,India,28,Male,Opening batsman,Right-hand bat,Wicketkeeper,135,4827,132*,43.09,3490,138.3,4,422,192,67,8,-,-,-,-,-
+Rishabh Rajendra Pant,India,23,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,108,3018,128*,32.80,2012,150,2,264,151,69,17,-,-,-,-,-Kuldeep Yadav,India,26,Male,Bowler,Left-hand bat,Left-arm wrist-spin,22,125,17*,12.50,138,90.57,0,12,0,26,0,96,120,21.72,7.54,17.2
+Manish Krishnanand Pandey,India,31,Male,Top-order batsman,Right-hand bat,Right-arm medium,234,5751,129*,31.95,4608,124.8,3,482,175,126,2,10,10,21.20,7.57,16.8
+Cheteshwar Arvind Pujara,India,32,Male,Top-order batsman,Right-hand bat,Legbreak,56,1356,100*,29.47,1240,109.35,1,158,20,32,0,-,-,-,-,-
+Wriddhiman Prasanta Saha,India,36,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,168,3446,129,25.52,2591,132.99,2,318,117,102,30,-,-,-,-,-
+Ishant Sharma,India,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,33,65,10*,8.12,78,83.33,0,5,2,29,0,134,106,35.19,7.80,27.0
+Shubman Gill,India,21,Male,Opening batsman,Right-hand bat,Right-arm offbreak,48,1217,78,33.80,949,128.24,0,115,36,21,0,-,-,-,-,-
+Washington Sundar,India,21,Male,Bowling allrounder,Left-hand bat,Right-arm offbreak,55,828,54*,22.37,678,122.12,0,63,28,24,0,85,67,27.95,6.61,25.3
+Jasprit Jasbirsingh Bumrah,India,27,Male,Bowler,Right-hand bat,Right-arm fast,23,74,16*,10.57,80,92.5,0,4,3,24,0,171,209,21.54,7.03,18.3
+Shikhar Dhawan,India,35,Male,Opening batsman,Left-hand bat,Right-arm offbreak,276,7993,106*,32.36,6389,125.1,2,905,180,110,0,6,4,16.50,8.25,12.0
+Kedar Mahadav Jadhav,India,35,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,121,2110,69,23.18,1640,128.65,0,194,67,49,7,4,4,22.00,8.80,15.0
+Mohammed Shami Ahmed,India,30,Male,Bowler,Right-hand bat,Right-arm fast,25,68,21,5.23,70,97.14,0,6,2,20,0,98,111,26.27,8.42,18.7
+Hardik Himanshu Pandya,India,27,Male,Allrounder,Right-hand bat,Right-arm medium-fast,128,2505,91,28.79,1743,143.71,0,161,152,86,0,127,106,27.21,8.20,19.9
+Ajinkya Madhukar Rahane,India,32,Male,Top-order batsman,Right-hand bat,Right-arm medium,196,5101,105*,28.98,4274,119.34,2,530,96,86,0,1,1,5.00,5.00,6.0
+Navdeep Amarjeet Saini,India,28,Male,Bowler,Right-hand bat,Right-arm fast,12,50,12*,16.66,60,83.33,0,5,0,14,0,57,49,31.36,7.35,25.5
+Rohit Gurunath Sharma,India,33,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,327,8974,118,32.05,6723,133.48,6,790,380,137,0,57,29,28.17,7.80,21.6
+Shardul Narendra Thakur,India,29,Male,Bowler,Right-hand bat,Right-arm medium,28,168,22*,9.88,149,112.75,0,10,6,30,0,99,116,25.15,8.44,17.8
+Umeshkumar Tilak Yadav,India,33,Male,Bowler,Right-hand bat,Right-arm fast,49,194,26,8.81,167,116.16,0,16,11,38,0,146,148,28.90,8.36,20.7
