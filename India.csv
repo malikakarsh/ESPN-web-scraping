@@ -1,0 +1,9 @@
+﻿Name,Country,Age,Player_type,Gender,Innings,Batting_average,Balls_faced,Runs,Hundreds,Highest,Strike_rate,Sixes,Fours,Bowling_average,Economy,Bowling_style,Wicktes,Bowling_strike_rate,Catches,Stumpings
+Mayank Agarwal,India,29,Right-hand bat,Male,5,17.2,83,86,0,32,103.61,1,12,0,10,Right-arm offbreak,0,0,2,0
+Yuzvendra Chahal,India,30,Right-hand bat,Male,10,8.83,90,53,0,18,58.88,0,7,27.29,5.2,Legbreak googly,92,31.4,15,0
+Shreyas Iyer,India,26,Right-hand bat,Male,19,44.83,801,807,1,103,100.74,17,80,0,7.5,Legbreak googly,0,0,8,0
+Virat Kohli,India,32,Right-hand bat,Male,242,59.31,12912,12040,43,183,93.24,124,1130,166.25,6.22,Right-arm medium,4,160.2,129,0
+Thangarasu Natarajan,India,27,Left-hand bat,Male,0,0,0,0,0,0,0,0,0,35,7,Left-arm medium,2,30,0,0
+Rishabh Pant,India,23,Left-hand bat,Male,22,26.71,361,374,0,71,103.6,10,40,0,0,0,0,0,8,1
+KL Rahul,India,28,Right-hand bat,Male,34,45.93,1515,1332,4,112,87.92,30,103,0,0,0,0,0,18,2
+Sanju Samson,India,26,Right-hand bat,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
