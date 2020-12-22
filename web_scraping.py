@@ -102,7 +102,7 @@ def fetchData(url, id):
              'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
              'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-        #value.to_csv('Australia.csv', index=False)
+        #value.to_csv('Bangladesh.csv', index=False)
         print(value)
     except:
         print("Error")
@@ -127,4 +127,4 @@ value = pd.DataFrame(
      'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
      'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-value.to_csv('India.csv', index=False, header=False, mode='a')
+value.to_csv('Bangladesh.csv', index=False, header=False, mode='a')

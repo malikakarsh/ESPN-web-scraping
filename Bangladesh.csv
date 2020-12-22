@@ -1,0 +1,31 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Abu Jayed Chowdhury,Bangladesh,27,Male,Bowler,Right-hand bat,Right-arm fast-medium,16,37,10*,7.40,36,102.77,0,4,1,7,0,60,66,22.87,8.19,16.7
+Aminul Islam Biplob,Bangladesh,21,Male,Biplob,Allrounder,Right-hand bat,8,72,34*,18.00,65,110.76,0,9,1,5,0,14,14,23.71,7.54,18.8
+Imrul Kayes,Bangladesh,33,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,126,2745,82*,23.86,2338,117.4,0,249,106,44,0,3,0,-,6.60,-
+Mohammad Mahmudullah,Bangladesh,34,Male,Riyad,Allrounder,Right-hand bat,204,4147,70*,25.44,3422,121.18,0,322,139,102,0,158,104,26.09,7.10,22.0
+Mominul Haque,Bangladesh,29,Male,Muminul Showrav,Showrab,Middle-order batsman,87,1680,91,22.40,1477,113.74,0,168,36,32,0,14,6,38.16,7.89,29.0
+Mohammad Mithun,Bangladesh,29,Male,Top-order batsman,Right-hand bat,Wicketkeeper,116,2293,84*,23.16,1953,117.4,0,147,92,44,16,-,-,-,-,-
+Mustafizur Rahman,Bangladesh,25,Male,Bowler,Left-hand bat,Left-arm fast-medium,40,116,21*,6.44,144,80.55,0,7,8,26,0,121,162,20.14,7.23,16.7
+Mohammad Rubel Hossain,Bangladesh,30,Male,Bowler,Right-hand bat,Right-arm fast,41,102,36,5.36,124,82.25,0,7,2,27,0,120,148,22.81,7.98,17.1
+Shadman Islam Anik,Bangladesh,25,Male,Anik,Opening batsman,Left-hand bat,9,151,45,16.77,163,92.63,0,16,1,6,0,-,-,-,-,-
+Soumya Sarkar,Bangladesh,27,Male,Middle-order batsman,Left-hand bat,Right-arm medium-fast,122,3486,149,30.05,5709,61.06,3,471,49,58,0,77,34,45.23,3.36,80.5
+Afif Hossain Dhrubo,Bangladesh,21,Male,Dhrubo,Allrounder,Left-hand bat,52,9,1191,97,32.18,1437,82.88,8,91,34,22,52,1045,5/32,43.54,5.19
+Ebadot Hossain Chowdhury,Bangladesh,26,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,7,3*,7.00,8,87.5,0,0,0,2,0,23,24,27.00,7.90,20.5
+Liton Kumar Das,Bangladesh,26,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,34,859,94,26.03,1487,57.76,0,119,4,32,2,114,274,66.79,15,23
+Mashrafe Bin Mortaza,Bangladesh,37,Male,Koushik,Bowler,Right-hand bat,106,1046,56*,13.41,796,131.4,0,70,65,34,0,163,153,29.07,7.51,23.2
+Mosaddek Hossain Saikat,Bangladesh,25,Male,Saikat,Middle-order batsman,Right-hand bat,74,1292,60*,23.49,1163,111.09,0,96,37,33,0,53,28,28.25,7.29,23.2
+Mohammad Nayeem Hasan,Bangladesh,20,Male,Bowler,Right-hand bat,Right-arm offbreak,20,108,24*,7.71,151,71.52,0,7,1,9,0,28,18,36.27,7.25,30.0
+Mohammad Sabbir Rahman,Bangladesh,29,Male,Rumon,Middle-order batsman,Right-hand bat,150,3308,122,25.44,2742,120.64,1,276,121,86,0,33,18,24.00,7.18,20.0
+Shafiul Islam,Bangladesh,31,Male,Bowler,Right-hand bat,Right-arm fast-medium,34,156,25*,9.75,176,88.63,0,14,3,22,0,107,112,25.76,8.18,18.8
+Taijul Islam,Bangladesh,28,Male,Bowler,Left-hand bat,Slow left-arm orthodox,26,179,22*,11.18,228,78.5,0,13,2,11,0,80,73,24.20,7.30,19.8
+Al-Amin Hossain,Bangladesh,30,Male,Bowler,Right-hand bat,Right-arm medium-fast,29,48,17,4.36,79,60.75,0,4,1,15,0,110,123,24.76,8.08,18.3
+Hasan Mahmud,Bangladesh,21,Male,Bowler,Right-hand bat,Right-arm medium,7,16,15*,8.00,16,100,0,3,0,3,0,23,21,30.47,8.18,22.3
+Mahedi Hasan,Bangladesh,26,Male,Mahedi,Top-order batsman,Right-hand bat,30,509,68*,19.57,407,125.06,0,34,31,10,0,51,41,29.87,7.31,24.5
+Mehidy Hasan Miraz,Bangladesh,23,Male,Miraz,Allrounder,Right-hand bat,64,1321,80,24.92,2367,55.8,0,158,15,32,0,65,161,29.03,3.00,58.0
+Mohammad Saifuddin,Bangladesh,24,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,74,14,988,68,29.05,1232,80.19,7,68,19,14,74,3066,5/9,27.13,5.23
+Mohammad Mushfiqur Rahim,Bangladesh,33,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,187,4288,98*,28.97,3351,127.96,0,367,124,106,47,-,-,-,-,-
+Najmul Hossain Shanto,Bangladesh,22,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,57,1208,115*,23.23,932,129.61,2,108,46,29,0,8,2,52.50,7.87,40.0
+Mohammad Saif Hassan,Bangladesh,22,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,10,269,61,26.90,231,116.45,0,31,8,7,0,1,0,-,9.00,-
+Shakib Al Hasan,Bangladesh,33,Male,Saqibul Hasan,Allrounder,Left-hand bat,290,5080,86*,20.73,4161,122.08,0,474,126,80,0,311,360,21.28,6.87,18.5
+Tamim Iqbal Khan,Bangladesh,31,Male,Opening batsman,Left-hand bat,-,217,6173,141*,31.33,5180,119.16,3,634,183,62,0,2,0,-,8.30,-
+Mohammad Naim Sheikh,Bangladesh,21,Opening batsman,Left-hand bat,-,34,928,105,29.93,797,116,43,1,85,28,17,0,-,-,-,-,-
