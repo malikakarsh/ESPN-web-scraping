@@ -1,0 +1,30 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Moeen Munir Ali,England,33,Male,Batting allrounder,Left-hand bat,Right-arm offbreak,158,3513,121*,24.73,2506,140.18,2,346,154,54,0,138,110,26.96,7.68,21.0
+Jonathan Marc Bairstow,England,31,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,123,2975,114,28.88,2212,134.49,2,249,120,82,13,-,-,-,-,-
+Samuel William Billings,England,29,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,165,3267,95*,23.33,2510,130.15,0,276,96,100,14,-,-,-,-,-
+Joseph Charles Buttler,England,30,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,248,6327,95*,31.16,4372,144.71,0,549,266,149,28,-,-,-,-,-
+Thomas Kevin Curran,England,25,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,76,972,62,19.83,734,132.42,0,85,28,41,0,131,157,25.34,8.84,17.1
+Christopher James Jordan,England,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,126,1052,45*,14.02,893,117.8,0,79,37,121,0,206,225,26.72,8.54,18.7
+Eoin Joseph Gerard Morgan,England,34,Male,Middle-order batsman,Left-hand bat,Right-arm medium,292,6879,91,27.62,5174,132.95,0,527,320,136,0,-,-,-,-,-
+Joseph Edward Root,England,29,Male,Top-order batsman,Right-hand bat,"Right-arm offbreak, Legbreak",71,1897,92*,33.28,1480,128.17,0,212,28,34,0,36,17,31.00,8.63,21.5
+Benjamin Andrew Stokes,England,29,Male,Allrounder,Left-hand bat,Right-arm fast-medium,123,2668,107*,25.90,1960,136.12,2,218,113,59,0,95,72,32.63,8.50,23.0
+David Jonathan Willey,England,30,Male,Bowling allrounder,Left-hand bat,Left-arm fast-medium,140,2722,118,23.66,1945,139.94,2,210,142,74,0,164,180,22.88,7.85,17.4
+James Michael Anderson,England,38,Male,Bowler,Left-hand bat,Right-arm fast-medium,10,23,16,5.75,26,88.46,0,3,0,8,0,44,41,32.14,8.47,22.7
+Tom Banton,England,22,Male,Opening batsman,Right-hand bat,Wicketkeeper,41,1111,100,28.48,729,152.4,1,118,52,20,3,-,-,-,-,-
+Stuart Christopher John Broad,England,34,Male,Bowler,Left-hand bat,Right-arm fast-medium,32,152,18*,7.60,149,102.01,0,10,3,26,0,83,100,21.44,7.19,17.8
+Zak Crawley,England,22,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,23,652,108*,31.04,434,150.23,1,71,19,8,0,-,-,-,-,-
+Joseph Liam Denly,England,34,Male,Top-order batsman,Right-hand bat,Legbreak,206,5238,127,27.86,4268,122.72,4,549,147,83,0,41,34,23.85,7.93,18.0
+Saqib Mahmood,England,23,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,19,6,9.50,25,76,0,1,0,3,0,28,30,24.10,8.47,17.0
+Oliver John Douglas Pope,England,22,Male,Middle-order batsman,Right-hand bat,Wicketkeeper,34,736,48,28.30,549,134.06,0,69,13,15,0,-,-,-,-,-
+Reece James William Topley,England,26,Male,Bowler,Right-hand bat,Left-arm fast-medium,15,22,5*,4.40,39,56.41,0,2,0,19,0,83,116,20.88,8.17,15.3
+Christopher Roger Woakes,England,31,Male,Allrounder,Right-hand bat,Right-arm fast-medium,69,803,57*,24.33,590,136.1,0,65,28,41,0,108,121,25.12,8.38,17.9
+Jofra Chioke Archer,England,25,Male,Bowler,Right-hand bat,Right-arm fast,59,532,36,17.16,363,146.55,0,39,23,31,0,112,146,22.40,7.66,17.5
+Dominic Mark Bess,England,23,Male,Bowling allrounder,Right-hand bat,Right-arm offbreak,4,9,5*,3.00,12,75,0,1,0,0,0,8,5,43.20,8.30,31.2
+Rory Joseph Burns,England,30,Male,Top-order batsman,Left-hand bat,Right-arm medium,45,640,56*,17.29,518,123.55,0,67,12,21,1,-,-,-,-,-
+Samuel Matthew Curran,England,22,Male,Allrounder,Left-hand bat,Left-arm medium-fast,68,1032,55*,19.47,789,130.79,0,91,44,25,0,84,79,29.60,8.61,20.6
+Lewis Gregory,England,28,Male,Allrounder,Right-hand bat,Right-arm medium-fast,88,1468,76*,21.91,1000,146.8,0,130,58,48,0,102,109,26.17,8.82,17.7
+Dawid Johannes Malan,England,33,Male,Top-order batsman,Left-hand bat,Legbreak,208,5852,117,33.63,4523,129.38,5,589,176,71,0,52,23,31.39,7.64,24.6
+Adil Usman Rashid,England,32,Male,Bowler,Right-hand bat,Legbreak,89,691,36*,12.56,662,104.38,0,49,11,49,0,172,201,22.58,7.43,18.2
+Dominic Peter Sibley,England,25,Male,Opening batsman,Right-hand bat,Legbreak,32,859,74*,29.62,707,121.49,0,72,22,17,0,15,5,67.60,8.89,45.6
+James Michael Vince,England,29,Male,Batsman,Right-hand bat,Right-arm medium,221,5936,107*,29.82,4467,132.88,1,664,148,116,0,7,3,29.00,6.69,26.0
+Mark Andrew Wood,England,30,Male,Bowler,Right-hand bat,Right-arm fast,13,106,27*,17.66,103,102.91,0,10,0,4,0,32,38,23.86,8.28,17.2
