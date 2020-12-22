@@ -58,7 +58,7 @@ def fetchData(url, id):
     # Appending values:
     try:
         Name.append(name[0].span.text)
-        Country.append("England")
+        Country.append("New Zealand")
         Age.append(name[2].span.text.split()[0])
         Gender.append("Male")
         Player_type.append(name[4].span.text)
@@ -102,7 +102,7 @@ def fetchData(url, id):
              'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
              'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-        #value.to_csv('England.csv', index=False)
+        value.to_csv('New_Zealand.csv', index=False)
         print(value)
     except:
         print("Error")
@@ -120,11 +120,13 @@ while (True):
         except:
             print("There is an error")
 
-
+'''
 value = pd.DataFrame(
     {'Name': Name, 'Country': Country, 'Age': Age, 'Gender': Gender, 'Player_type': Player_type, 'Batting_style': Batting_style,
      'Bowling_style': Bowling_style, 'Batting_innings': Batting_innings, 'Runs': Runs, 'Highest': Highest, 'Batting_average': Batting_average,
      'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
      'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-value.to_csv('England.csv', index=False, header=False, mode='a')
+
+value.to_csv('New_Zealand.csv', index=False, header=False, mode='a')
+'''
