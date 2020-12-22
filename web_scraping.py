@@ -58,7 +58,7 @@ def fetchData(url, id):
     # Appending values:
     try:
         Name.append(name[0].span.text)
-        Country.append("Pakistan")
+        Country.append("South Africa")
         Age.append(name[2].span.text.split()[0])
         Gender.append("Male")
         Player_type.append(name[4].span.text)
@@ -102,7 +102,7 @@ def fetchData(url, id):
              'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
              'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-        #value.to_csv('Pakistan.csv', index=False)
+        #value.to_csv('.csv', index=False)
         print(value)
     except:
         print("Error")
@@ -128,4 +128,4 @@ value = pd.DataFrame(
      'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
 
-value.to_csv('Pakistan.csv', index=False, header=False, mode='a')
+value.to_csv('South_Africa.csv', index=False, header=False, mode='a')

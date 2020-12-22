@@ -1,0 +1,31 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Bjorn Carl Fortuin,South Africa,26,Male,Bowler,Right-hand bat,Slow left-arm orthodox,32,169,31*,8.89,150,112.66,0,8,5,19,0,65,76,19.21,6.44,17.8
+Heinrich Klaasen,South Africa,29,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,76,1513,77*,27.50,1089,138.93,0,100,64,40,19,5,1,68.00,9.71,42.0
+Janneman Nieuwoudt Malan,South Africa,24,Male,Top-order batsman,Right-hand bat,Legbreak,45,1369,128*,32.59,1010,135.54,2,148,48,28,0,-,-,-,-,-
+David Andrew Miller,South Africa,31,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,289,6900,120*,34.32,4999,138.02,3,495,300,206,1,3,0,-,10.33,-
+Dane Paterson,South Africa,31,Male,Bowler,Right-hand bat,Right-arm fast-medium,28,147,24*,9.18,107,137.38,0,11,5,24,0,85,91,25.27,7.70,19.6
+Dwaine Pretorius,South Africa,31,Male,Bowling allrounder,Right-hand bat,Right-arm medium-fast,109,1869,77*,21.98,1320,141.59,0,128,97,26,0,116,87,28.64,8.23,20.8
+ Lubabalo Lutho Sipamla,South Africa,22,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,7,4*,2.33,14,50,0,0,0,18,0,33,33,28.66,8.92,19.2
+Petrus Johannes van Biljon,South Africa,34,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,59,1324,75*,31.52,999,132.53,0,93,56,14,0,-,-,-,-,-
+Zubayr Hamza,South Africa,25,Male,Batsman,Right-hand bat,Legbreak,17,317,75,22.64,316,100.31,0,35,3,8,0,1,1,12.00,6.00,12.0
+Daryn Miles Dupavillon,South Africa,26,Male,-,Right-hand bat,Right-arm fast,4,14,8,7,12,116.66,0,1,1,2,0,17,21,18.04,6.91,15.6
+Kyle Verreynne,South Africa,23,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,24,520,57,26.00,426,122.06,0,41,13,14,1,-,-,-,-,-
+Dale Willem Steyn,South Africa,37,Male,Bowler,Right-hand bat,Right-arm fast,69,313,27*,8.45,289,108.3,0,25,9,55,0,222,259,21.96,6.82,19.3
+Tabraiz Shamsi,South Africa,30,Male,Bowler,Right-hand bat,Left-arm wrist-spin,28,59,15*,5.90,107,55.14,0,1,1,23,0,133,146,23.99,7.30,19.7
+Vernon Darryl Philander,South Africa,35,Male,Allrounder,Right-hand bat,Right-arm fast-medium,89,1211,56*,27.52,882,137.3,0,63,53,28,0,114,92,31.17,7.95,23.5
+Anrich Arno Nortje,South Africa,27,Male,Bowler,Right-hand bat,Right-arm fast,9,14,4,3.50,22,63.63,0,1,0,9,0,40,50,23.12,7.88,17.6
+Aiden Kyle Markram,South Africa,26,Male,Opening batsman,Right-hand bat,Right-arm offbreak,2,18,15,9.00,17,105.88,0,1,1,1,0,37,82,123.06,0,8
+Keshav Athmanand Maharaj,South Africa,30,Male,Bowler,Right-hand bat,Slow left-arm orthodox,50,521,45*,20.84,423,123.16,0,48,16,26,0,92,75,30.44,6.77,26.9
+Reeza Raphael Hendricks,South Africa,31,Male,Opening batsman,Right-hand bat,Right-arm offbreak,118,3542,108*,35.42,2865,123.63,3,336,78,54,0,-,-,-,-,-
+Dean Elgar,South Africa,33,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,69,1849,88*,35.55,1639,112.81,0,134,51,29,0,44,29,24.93,6.91,21.6
+Quinton de Kock,South Africa,28,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,197,6090,126*,33.46,4389,138.75,4,636,245,141,35,-,-,-,-,-
+Hendrik Erasmus van der Dussen,South Africa,31,Male,Top-order batsman,Right-hand bat,Legbreak,111,3571,112*,37.98,2719,131.33,3,252,160,35,0,6,3,18.33,6.11,18.0
+Jon-Jon Trevor Smuts,South Africa,32,Male,Batting allrounder,Right-hand bat,Slow left-arm orthodox,142,3481,121,27.19,2765,125.89,3,359,109,34,0,116,84,27.22,6.91,23.6
+Kagiso Rabada,South Africa,25,Male,Bowler,Left-hand bat,Right-arm fast,37,224,44,9.33,223,100.44,0,19,8,29,0,98,138,20.97,7.86,16.0
+Andile Lucky Phehlukwayo,South Africa,24,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,58,528,37,11.23,457,115.53,0,45,20,10,0,79,77,24.93,8.40,17.8
+Lungisani True-man Ngidi,South Africa,24,Male,Bowler,Right-hand bat,Right-arm fast,6,9,4,3.00,16,56.25,0,0,0,14,0,68,94,18.67,7.88,14.2
+Pieter Jacobus Malan,South Africa,31,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,36,1091,140*,41.96,951,114.72,1,111,29,17,0,1,2,15.00,7.50,12.0
+George Fredrik Linde,South Africa,29,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,61,715,52*,17.43,523,136.71,0,39,30,20,0,80,84,23.83,7.32,19.5
+Beuran Eric Hendricks,South Africa,30,Male,Bowler,Left-hand bat,Left-arm fast-medium,13,32,12*,4.57,47,68.08,0,0,1,15,0,70,97,21.53,8.58,15.0
+Francois du Plessis,South Africa,36,Male,Middle-order batsman,Right-hand bat,Legbreak,220,5859,119,30.04,4574,128.09,1,514,177,122,0,52,50,18.34,6.96,15.8
+Temba Bavuma,South Africa,30,Male,Middle-order batsman,Right-hand bat,Right-arm medium,67,1760,104,31.42,1368,128.65,1,153,40,35,0,-,-,-,-,-
