@@ -1,0 +1,31 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Fabian Anthony Allen,West Indies,25,Male,Bowling allrounder,Right-hand bat,Slow left-arm orthodox,26,449,64*,24.94,282,159.21,0,36,28,9,0,26,17,32.88,7.85,25.1
+Darren Michael Bravo,West Indies,31,Male,Top-order batsman,Left-hand bat,Right-arm medium,134,3213,94*,32.45,2725,117.9,0,194,178,44,0,-,-,-,-,-
+Roston Lamar Chase,West Indies,28,Male,Allrounder,Right-hand bat,Right-arm offbreak,14,302,66,37.75,269,112.26,0,21,7,6,0,12,9,21.33,5.48,23.3
+Joshua Da Silva,West Indies,22,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,6,136,59,27.20,130,104.61,0,10,3,0,0,-,-,-,-,-
+Shannon Terry Gabriel,West Indies,32,Male,Bowler,Right-hand bat,Right-arm fast,8,4,2*,2.00,13,30.76,0,0,0,4,0,37,32,25.06,7.49,20.0
+Jason Omar Holder,West Indies,29,Male,Bowling allrounder,Right-hand bat,Right-arm medium-fast,91,1026,69,14.86,795,129.05,0,74,55,60,0,123,105,31.07,7.74,24.0
+Brandon Alexander King,West Indies,26,Male,Top-order batsman,Right-hand bat,-,47,1032,132,25.17,789,130.79,1,93,60,19,0,-,-,-,-,-
+Shane Omari Dowrich,West Indies,29,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,23,321,38,16.05,379,84.69,0,28,7,16,6,-,-,-,-,-
+Rahkeem Rashawn Shane Cornwall,West Indies,27,Male,Allrounder,Right-hand bat,Right-arm offbreak,46,776,78*,18.92,520,149.23,0,64,57,5,0,42,24,32.12,7.67,25.1
+Shamarh Shaqad Joshua Brooks,West Indies,32,Male,Top-order batsman,Right-hand bat,Legbreak,22,372,53,18.60,322,115.52,0,22,15,14,0,-,-,-,-,-
+Jermaine Blackwood,West Indies,29,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,23,357,74,17.85,392,91.07,0,25,13,4,0,-,-,-,-,-
+Oshane Romaine Thomas,West Indies,23,Male,Bowler,Left-hand bat,Right-arm fast,8,14,8*,7.00,26,53.84,0,2,0,6,0,41,56,23.26,9.17,15.2
+Kemar Andre Jamal Roach,West Indies,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,13,59,12,7.37,52,113.46,0,3,3,18,0,44,28,43.89,8.08,32.5
+Kieron Adrian Pollard,West Indies,33,Male,Allrounder,Right-hand bat,Right-arm medium,471,10578,104,31.67,6934,152.55,1,675,706,300,0,341,293,24.53,8.22,17.9
+Shimron Odilon Hetmyer,West Indies,23,Male,Top-order batsman,Left-hand bat,-,75,1585,100,24.76,1215,130.45,1,120,80,44,0,-,-,-,-,-
+Shai Diego Hope,West Indies,27,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,37,772,88,21.44,643,120.06,0,63,30,15,7,-,-,-,-,-
+Kyle Rico Mayers,West Indies,28,Male,Allrounder,Left-hand bat,Right-arm medium,54,688,85,16.78,621,110.78,0,33,38,16,0,31,16,36.12,7.79,27.8
+Nicholas Pooran,West Indies,25,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,142,2987,100*,25.31,2068,144.43,1,200,202,87,12,-,-,-,-,-
+Romario Shepherd,West Indies,26,Male,Bowler,Right-hand bat,Right-arm medium-fast,9,89,32*,17.80,56,158.92,0,7,5,7,0,21,25,21.96,8.23,16.0
+Hayden Rashidi Walsh,West Indies,28,Male,Bowler,Left-hand bat,Legbreak googly,15,155,28,15.50,164,94.51,0,9,3,14,0,33,40,20.72,8.08,15.3
+Kraigg Clairmonte Brathwaite,West Indies,28,Male,Opening batsman,Right-hand bat,Right-arm offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+John Dillon Campbell,West Indies,27,Male,Opening batsman,Left-hand bat,Right-arm offbreak,10,99,43,11.00,121,81.81,0,10,1,4,0,1,0,-,1.00,-
+Sheldon Shane Cottrell,West Indies,31,Male,Bowler,Right-hand bat,Left-arm fast-medium,34,160,26*,7.27,144,111.11,0,11,10,47,0,102,135,20.55,7.57,16.2
+Andre David Stephon Fletcher,West Indies,33,Male,Top-order batsman,Right-hand bat,"Right-arm medium-fast, Legbreak",200,4921,103*,27.33,4207,116.97,1,413,212,101,17,4,2,25.00,8.33,18.0
+Chemar Keron Holder,West Indies,22,Male,Bowler,Right-hand bat,Right-arm fast,2,4,4*,-,4,100,0,1,0,0,0,7,6,36.16,10.33,21.0
+Alzarri Shaheim Joseph,West Indies,24,Male,Bowler,Right-hand bat,Right-arm fast-medium,17,107,21*,17.83,98,109.18,0,6,5,9,0,24,27,29.33,9.40,18.7
+Keemo Mandela Angus Paul,West Indies,22,Male,Allrounder,Right-hand bat,Right-arm fast-medium,39,389,38,14.96,356,109.26,0,16,22,17,0,60,60,27.68,8.76,18.9
+Rovman Powell,West Indies,27,Male,Middle-order batsman,Right-hand bat,Right-arm medium-fast,68,1225,84,22.27,959,127.73,0,80,69,45,0,29,16,45.62,10.28,26.6
+Lendl Mark Platter Simmons,West Indies,35,Male,Top-order batsman,Right-hand bat,Right-arm medium-fast,256,7010,100*,30.61,5867,119.48,1,637,312,95,0,32,22,24.86,8.72,17.0
+Kesrick Omari Kenal Williams,West Indies,30,Male,Bowler,Right-hand bat,Right-arm fast-medium,25,72,18*,6.54,91,79.12,0,4,3,23,0,97,129,22.79,8.70,15.7
