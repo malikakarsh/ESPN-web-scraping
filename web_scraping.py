@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+import os
 
 html_text = requests.get(
     'http://m.espncricinfo.com/india/content/player/253802.html').text
@@ -17,29 +18,6 @@ for finds in findings:
     my_list.append(finds.text.replace('\n', ' ').split())
 print(len(my_list))
 '''
-Name = []
-Country = []
-Age = []
-Gender = []
-Player_type = []
-Batting_style = []
-Bowling_style = []
-Batting_innings = []
-Runs = []
-Highest = []
-Batting_average = []
-Balls_faced = []
-Strike_rate = []
-Hundreds = []
-Fours = []
-Sixes = []
-Catches = []
-Stumpings = []
-Bowling_innings = []
-Wickets = []
-Bowling_average = []
-Economy = []
-Bowling_strike_rate = []
 name = soup.find_all('p', attrs={"class": "ciPlayerinformationtxt"})
 '''
 print(name[0].span.text)
@@ -54,11 +32,34 @@ def fetchData(url, id):
     html_text = requests.get(f'{url}').text
     soup = BeautifulSoup(html_text, 'lxml')
     name = soup.find_all('p', attrs={"class": "ciPlayerinformationtxt"})
+    Name = []
+    Country = []
+    Age = []
+    Gender = []
+    Player_type = []
+    Batting_style = []
+    Bowling_style = []
+    Batting_innings = []
+    Runs = []
+    Highest = []
+    Batting_average = []
+    Balls_faced = []
+    Strike_rate = []
+    Hundreds = []
+    Fours = []
+    Sixes = []
+    Catches = []
+    Stumpings = []
+    Bowling_innings = []
+    Wickets = []
+    Bowling_average = []
+    Economy = []
+    Bowling_strike_rate = []
 
     # Appending values:
     try:
         Name.append(name[0].span.text)
-        Country.append("Zimbabwe")
+        Country.append("Afghanistan")
         Age.append(name[2].span.text.split()[0])
         Gender.append("Male")
         Player_type.append(name[4].span.text)
@@ -102,7 +103,11 @@ def fetchData(url, id):
              'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
              'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
 
-        #value.to_csv('Zimbabwe.csv', index=False)
+        if (os.path.isfile('Afghanistan.csv')):
+            value.to_csv('Afghanistan.csv', index=False, mode='a')
+        else:
+            value.to_csv('Afghanistan.csv', index=False,
+                         header=False, mode='a')
         print(value)
     except:
         print("Error")
@@ -119,13 +124,3 @@ while (True):
             fetchData(url, id)
         except:
             print("There is an error")
-
-
-value = pd.DataFrame(
-    {'Name': Name, 'Country': Country, 'Age': Age, 'Gender': Gender, 'Player_type': Player_type, 'Batting_style': Batting_style,
-     'Bowling_style': Bowling_style, 'Batting_innings': Batting_innings, 'Runs': Runs, 'Highest': Highest, 'Batting_average': Batting_average,
-     'Balls_faced': Balls_faced, 'Strike_rate': Strike_rate, 'Hundreds': Hundreds, 'Fours': Fours, 'Sixes': Sixes, 'Catches': Catches,
-     'Stumpings': Stumpings, 'Bowling_innings': Bowling_innings, 'Wickets': Wickets, 'Bowling_average': Bowling_average, 'Economy': Economy, 'Bowling_strike_rate': Bowling_strike_rate})
-
-
-value.to_csv('Zimbabwe.csv', index=False, header=False, mode='a')

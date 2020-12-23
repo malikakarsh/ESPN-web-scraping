@@ -1,0 +1,31 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Afsar Khan Zazai,Afghanistan,27,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,18,364,56*,33.09,343,106.12,0,30,8,9,3,-,-,-,-,-
+Dawlat Zadran,Afghanistan,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,33,182,27*,10.70,107,170.09,0,15,11,18,0,62,85,20.61,7.95,15.5
+Gulbadin Naib,Afghanistan,29,Male,Bowler,Right-hand bat,Right-arm medium-fast,81,1134,91,19.22,831,136.46,0,79,58,35,0,68,58,26.77,8.38,19.1
+Ihsanullah Janat,Afghanistan,22,Male,Top-order batsman,Right-hand bat,Brother - Nawroz Mangal,26,574,54,23.91,465,123.44,0,49,26,10,0,-,-,-,-,-
+Karim Janat,Afghanistan,22,Male,Bowling allrounder,Right-hand bat,Right-arm medium,39,855,120,25.90,613,139.47,1,59,56,9,0,54,55,27.21,7.79,20.9
+Najeeb Tarakai,Afghanistan,October,Male,Opening batsman,Right-hand bat,Right-arm offbreak,33,700,90,21.21,549,127.5,0,65,35,8,0,1,0,-,5.00,-
+Naveen-ul-Haq Murid,Afghanistan,21,Male,Bowler,Right-hand bat,Right-arm medium-fast,18,103,20*,11.44,121,85.12,0,7,2,16,0,50,55,23.47,7.42,18.9
+Rahmat Shah Zurmatai,Afghanistan,27,Male,Allrounder,Right-hand bat,Legbreak googly,22,301,60,14.33,291,103.43,0,17,10,8,0,9,6,23.33,8.40,16.6
+Shafiqullah Shafiq,Afghanistan,31,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,69,801,60,14.83,564,142.02,0,59,49,29,3,-,-,-,-,-
+Usman Ghani,Afghanistan,24,Male,Opening batsman,Right-hand bat,-,42,1219,79,31.25,1053,115.76,0,129,30,18,0,-,-,-,-,-
+Amir Hamza Hotak,Afghanistan,29,Male,Bowler,Right-hand bat,Slow left-arm orthodox,21,104,21,13.00,101,102.97,0,6,3,4,0,54,51,24.11,6.47,22.3
+Fareed Ahmad Malik,Afghanistan,26,Male,Bowler,Left-hand bat,Left-arm fast-medium,10,51,24*,10.20,39,130.76,0,6,1,4,0,37,39,28.46,8.78,19.4
+Hazratullah Zazai,Afghanistan,22,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,60,1684,162*,29.03,1168,144.17,2,160,104,24,0,-,-,-,-,-
+Ikram Alikhil,Afghanistan,20,Male,Wicketkeeper batsman,Left-hand bat,-,16,78,19,13,86,90.69,0,3,1,9,11,-,-,-,-,-
+Mohammad Nabi,Afghanistan,35,Male,Allrounder,Right-hand bat,Right-arm offbreak,228,4132,89,22.57,2926,141.21,0,279,214,128,0,268,267,23.44,6.90,20.3
+Najibullah Zadran,Afghanistan,27,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,110,2101,97*,26.26,1526,137.68,0,144,114,57,0,1,1,6.00,6.00,6.0
+Qais Ahmad Kamawal,Afghanistan,20,Male,Bowler,Right-hand bat,Legbreak,30,350,50*,15.21,275,127.27,0,23,22,23,0,63,74,21.28,7.09,18.0
+Rashid Khan Arman,Afghanistan,22,Male,Bowler,Right-hand bat,Legbreak googly,125,985,56*,11.72,685,143.79,0,66,69,73,0,238,330,17.55,6.28,16.7
+Shapoor Zadran,Afghanistan,33,Male,Bowler,Left-hand bat,Left-arm fast-medium,30,82,19*,5.12,120,68.33,0,1,9,8,0,75,85,21.82,7.22,18.1
+Mohammad Yamin Ahmadzai,Afghanistan,28,Male,Bowler,Right-hand bat,Right-arm medium-fast,9,24,8,8.00,35,68.57,0,2,0,2,0,22,21,34.09,9.96,20.5
+Mohammad Asghar Afghan,Afghanistan,32,Male,Middle-order batsman,Right-hand bat,Right-arm medium-fast,101,2480,95*,27.86,2054,120.74,0,146,142,32,0,5,3,17.00,9.87,10.3
+Fazal Rahman Rahmani,Afghanistan,30,Male,-,Right-hand bat,Right-arm medium,11,101,21,12.62,117,86.32,0,4,3,1,0,9,7,36.85,10.32,21.4
+Ibrahim Zadran,Afghanistan,19,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,18,418,96*,29.85,346,120.8,0,31,18,16,0,13,6,43.83,8.91,29.5
+Mohammad Javed Ahmadi,Afghanistan,28,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,35,875,117*,29.16,657,133.18,1,88,38,5,0,19,6,53.66,8.94,36.0
+Mujeeb Ur Rahman,Afghanistan,19,Male,Bowler,Right-hand bat,Right-arm offbreak,35,140,27,9.33,145,96.55,0,11,4,26,0,125,132,23.90,6.67,21.5
+Nasir Jamal Ahmadzai,Afghanistan,27,Male,Middle-order batsman,Right-hand bat,Legbreak googly,23,420,83,21.00,378,111.11,0,31,9,16,0,1,0,-,9.00,-
+Rahmanullah Gurbaz,Afghanistan,19,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,43,1069,99,24.86,691,154.7,0,87,75,21,4,-,-,-,-,-
+Samiullah Shinwari,Afghanistan,32,Male,Allrounder,Right-hand bat,Legbreak,110,1855,65,21.82,1540,120.45,0,130,77,38,0,80,53,28.13,6.97,24.1
+Sharafuddin Ashraf,Afghanistan,25,Male,Allrounder,Right-hand bat,Slow left-arm orthodox,19,184,32,13.14,139,132.37,0,8,11,10,0,31,30,25.53,7.43,20.6
+Zahir Khan  Pakteen,Afghanistan,22,Male,Bowler,Left-hand bat,Left-arm wrist-spin,20,52,19*,4.33,47,110.63,0,4,3,5,0,54,67,20.68,7.00,17.7
