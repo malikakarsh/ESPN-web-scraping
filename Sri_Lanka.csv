@@ -1,0 +1,31 @@
+Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
+Minod Bhanuka Ranasinghe,Sri Lanka,25,Male,Top-order batsman,Left-hand bat,Wicketkeeper,46,807,70*,19.68,679,118.85,0,67,34,35,15,-,-,-,-,-
+Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,23,Male,Allrounder,Right-hand bat,Legbreak,43,693,74,20.38,503,137.77,0,66,18,27,0,46,63,16.07,6.64,14.5
+Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,34,Male,Bowler,Right-hand bat,Right-arm fast-medium,19,40,9*,8.00,58,68.96,0,4,1,11,0,53,55,24.01,8.14,17.6
+Weerahandige Inol Avishka Fernando,Sri Lanka,22,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,45,1184,92*,27.53,863,137.19,0,103,60,14,0,-,-,-,-,-
+Frank Dimuth Madushanka Karunaratne,Sri Lanka,32,Male,Opening batsman,Left-hand bat,Right-arm medium,33,543,80,16.96,499,108.81,0,68,3,17,1,-,-,-,-,-
+Lahiru Dilshan Madushanka,Sri Lanka,28,Male,Allrounder,Right-hand bat,Right-arm fast-medium,31,375,51,15.00,338,110.94,0,21,13,18,0,41,34,25.97,8.07,19.2
+Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,25,Male,Wicketkeeper batsman,Right-hand bat,Legbreak,56,1414,79,26.18,1017,139.03,0,114,70,21,1,1,0,-,0.00,-
+Mathurage Don Kusal Janith Perera,Sri Lanka,30,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,105,2458,87,24.33,1859,132.22,0,230,96,38,19,-,-,-,-,-
+Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,27,Male,Bowler,Right-hand bat,Right-arm medium-fast,15,65,18*,10.83,85,76.47,0,1,4,5,0,41,66,18.54,8.16,13.6
+Madagamagamage Dasun Shanaka,Sri Lanka,29,Male,Allrounder,Right-hand bat,Right-arm medium,95,2124,131*,28.32,1450,146.48,3,144,139,32,0,49,27,34.03,8.93,22.8
+Lokuge Dinesh Chandimal,Sri Lanka,31,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,120,3064,101*,29.46,2574,119.03,1,283,80,74,25,-,-,-,-,-
+Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,27,Male,Wicketkeeper batsman,Left-hand bat,-,71,1494,79*,22.98,1063,140.54,0,194,34,48,16,-,-,-,-,-
+Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,28,Male,Batsman,Right-hand bat,Legbreak,19,295,78*,17.35,259,113.89,0,29,7,7,0,-,-,-,-,-
+Mashtayage Danushka Gunathilaka,Sri Lanka,29,Male,Allrounder,Left-hand bat,Right-arm offbreak,89,2296,102*,28.00,1778,129.13,1,243,75,29,0,43,30,26.80,7.58,21.2
+Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,23,Male,Bowler,Left-hand bat,Right-arm fast,7,6,4,2.00,10,60,0,1,0,1,0,18,20,25.85,8.14,19.0
+Separamadu Lasith Malinga,Sri Lanka,37,Male,Bowler,Right-hand bat,Right-arm fast,92,426,37*,8.03,414,102.89,0,31,21,54,0,289,390,19.69,7.08,16.6
+Angelo Kanishka Perera,Sri Lanka,30,Male,Allrounder,Right-hand bat,Slow left-arm orthodox,83,1727,74*,25.77,1439,120.01,0,124,58,53,0,23,17,20.82,7.53,16.5
+Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,25,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,45,1107,100*,25.74,907,122.05,1,114,16,29,19,-,-,-,-,-
+Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,31,Male,Top-order batsman,Left-hand bat,Right-arm medium-fast,71,1413,70,22.42,1196,118.14,0,110,40,29,0,-,-,-,-,-
+Narangoda Liyanaarachchilage Thisara Chirantha Perera,Sri Lanka,31,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,242,3696,97*,21.24,2459,150.3,0,260,209,119,0,259,243,26.30,8.59,18.3
+Dhananjaya Maduranga de Silva,Sri Lanka,29,Male,Allrounder,Right-hand bat,Right-arm offbreak,55,1380,81*,27.60,1053,131.05,0,133,42,22,0,35,22,26.95,7.39,21.8
+Lasith Embuldeniya,Sri Lanka,24,Male,Bowler,Left-hand bat,Slow left-arm orthodox,2,8,4*,8.00,14,57.14,0,1,0,1,0,3,2,21.50,4.60,28.0
+Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,29,Male,Bowler,Right-hand bat,Left-arm medium-fast,4,11,7,2.75,17,64.7,0,1,0,1,0,14,12,24.41,8.13,18.0
+Gampalage Shehan Naveendra De Fonseka Gunawarna Jayasuriya,Sri Lanka,29,Male,Batting allrounder,Left-hand bat,Right-arm offbreak,79,1729,107,23.36,1404,123.14,1,146,51,40,0,68,53,25.22,7.44,20.3
+Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,33,Male,Bowler,Right-hand bat,Right-arm fast-medium,26,112,33,9.33,110,101.81,0,11,3,15,0,52,60,23.15,7.88,17.6
+Angelo Davis Mathews,Sri Lanka,33,Male,Allrounder,Right-hand bat,Right-arm medium,140,2568,81*,24.45,2151,119.38,0,181,82,57,0,128,85,31.81,7.39,25.8
+Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,38,Male,Allrounder,Right-hand bat,Right-arm offbreak,68,803,62,13.16,747,107.49,0,82,20,23,0,81,74,23.06,6.56,21.0
+Pramod Bhanuka Bandara Rajapaksa,Sri Lanka,29,Male,Top-order batsman,Left-hand bat,Right-arm medium,68,1521,96*,25.35,1129,134.72,0,129,75,19,0,18,21,16.57,7.40,13.4
+Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,29,Male,Bowler,Right-hand bat,Left-arm wrist-spin,18,51,10,5.66,80,63.75,0,4,0,17,0,53,62,23.32,7.66,18.2
+Isuru Udana Tillakaratna,Sri Lanka,32,Male,Allrounder,Right-hand bat,Left-arm medium-fast,96,999,84*,16.11,759,131.62,0,58,54,56,0,147,158,25.17,8.15,18.5
