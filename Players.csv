@@ -1,360 +1,361 @@
-Name,Country,Age,Gender,Player_type,Batting_style,Bowling_style,Batting_innings,Runs,Highest,Batting_average,Balls_faced,Strike_rate,Hundreds,Fours,Sixes,Catches,Stumpings,Bowling_innings,Wickets,Bowling_average,Economy,Bowling_strike_rate
-Afsar Khan Zazai,Afghanistan,27,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,18,364,56*,33.09,343,106.12,0,30,8,9,3,-,-,-,-,-
-Dawlat Zadran,Afghanistan,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,33,182,27*,10.70,107,170.09,0,15,11,18,0,62,85,20.61,7.95,15.5
-Gulbadin Naib,Afghanistan,29,Male,Bowler,Right-hand bat,Right-arm medium-fast,81,1134,91,19.22,831,136.46,0,79,58,35,0,68,58,26.77,8.38,19.1
-Ihsanullah Janat,Afghanistan,22,Male,Top-order batsman,Right-hand bat,-,26,574,54,23.91,465,123.44,0,49,26,10,0,-,-,-,-,-
-Karim Janat,Afghanistan,22,Male,Bowling allrounder,Right-hand bat,Right-arm medium,39,855,120,25.90,613,139.47,1,59,56,9,0,54,55,27.21,7.79,20.9
-Najeeb Tarakai,Afghanistan,23,Male,Opening batsman,Right-hand bat,Right-arm offbreak,33,700,90,21.21,549,127.5,0,65,35,8,0,1,0,-,5.00,-
-Naveen-ul-Haq Murid,Afghanistan,21,Male,Bowler,Right-hand bat,Right-arm medium-fast,18,103,20*,11.44,121,85.12,0,7,2,16,0,50,55,23.47,7.42,18.9
-Rahmat Shah Zurmatai,Afghanistan,27,Male,Allrounder,Right-hand bat,Legbreak googly,22,301,60,14.33,291,103.43,0,17,10,8,0,9,6,23.33,8.40,16.6
-Shafiqullah Shafiq,Afghanistan,31,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,69,801,60,14.83,564,142.02,0,59,49,29,3,-,-,-,-,-
-Usman Ghani,Afghanistan,24,Male,Opening batsman,Right-hand bat,-,42,1219,79,31.25,1053,115.76,0,129,30,18,0,-,-,-,-,-
-Amir Hamza Hotak,Afghanistan,29,Male,Bowler,Right-hand bat,Slow left-arm orthodox,21,104,21,13.00,101,102.97,0,6,3,4,0,54,51,24.11,6.47,22.3
-Fareed Ahmad Malik,Afghanistan,26,Male,Bowler,Left-hand bat,Left-arm fast-medium,10,51,24*,10.20,39,130.76,0,6,1,4,0,37,39,28.46,8.78,19.4
-Hazratullah Zazai,Afghanistan,22,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,60,1684,162*,29.03,1168,144.17,2,160,104,24,0,-,-,-,-,-
-Ikram Alikhil,Afghanistan,20,Male,Wicketkeeper batsman,Left-hand bat,-,16,78,19,13,86,90.69,0,3,1,9,11,-,-,-,-,-
-Mohammad Nabi,Afghanistan,35,Male,Allrounder,Right-hand bat,Right-arm offbreak,228,4132,89,22.57,2926,141.21,0,279,214,128,0,268,267,23.44,6.90,20.3
-Najibullah Zadran,Afghanistan,27,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,110,2101,97*,26.26,1526,137.68,0,144,114,57,0,1,1,6.00,6.00,6.0
-Qais Ahmad Kamawal,Afghanistan,20,Male,Bowler,Right-hand bat,Legbreak,30,350,50*,15.21,275,127.27,0,23,22,23,0,63,74,21.28,7.09,18.0
-Rashid Khan Arman,Afghanistan,22,Male,Bowler,Right-hand bat,Legbreak googly,125,985,56*,11.72,685,143.79,0,66,69,73,0,238,330,17.55,6.28,16.7
-Shapoor Zadran,Afghanistan,33,Male,Bowler,Left-hand bat,Left-arm fast-medium,30,82,19*,5.12,120,68.33,0,1,9,8,0,75,85,21.82,7.22,18.1
-Mohammad Yamin Ahmadzai,Afghanistan,28,Male,Bowler,Right-hand bat,Right-arm medium-fast,9,24,8,8.00,35,68.57,0,2,0,2,0,22,21,34.09,9.96,20.5
-Mohammad Asghar Afghan,Afghanistan,32,Male,Middle-order batsman,Right-hand bat,Right-arm medium-fast,101,2480,95*,27.86,2054,120.74,0,146,142,32,0,5,3,17.00,9.87,10.3
-Fazal Rahman Rahmani,Afghanistan,30,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,11,101,21,12.62,117,86.32,0,4,3,1,0,9,7,36.85,10.32,21.4
-Ibrahim Zadran,Afghanistan,19,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,18,418,96*,29.85,346,120.8,0,31,18,16,0,13,6,43.83,8.91,29.5
-Mohammad Javed Ahmadi,Afghanistan,28,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,35,875,117*,29.16,657,133.18,1,88,38,5,0,19,6,53.66,8.94,36.0
-Mujeeb Ur Rahman,Afghanistan,19,Male,Bowler,Right-hand bat,Right-arm offbreak,35,140,27,9.33,145,96.55,0,11,4,26,0,125,132,23.90,6.67,21.5
-Nasir Jamal Ahmadzai,Afghanistan,27,Male,Middle-order batsman,Right-hand bat,Legbreak googly,23,420,83,21.00,378,111.11,0,31,9,16,0,1,0,-,9.00,-
-Rahmanullah Gurbaz,Afghanistan,19,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,43,1069,99,24.86,691,154.7,0,87,75,21,4,-,-,-,-,-
-Samiullah Shinwari,Afghanistan,32,Male,Allrounder,Right-hand bat,Legbreak,110,1855,65,21.82,1540,120.45,0,130,77,38,0,80,53,28.13,6.97,24.1
-Sharafuddin Ashraf,Afghanistan,25,Male,Allrounder,Right-hand bat,Slow left-arm orthodox,19,184,32,13.14,139,132.37,0,8,11,10,0,31,30,25.53,7.43,20.6
-Zahir Khan  Pakteen,Afghanistan,22,Male,Bowler,Left-hand bat,Left-arm wrist-spin,20,52,19*,4.33,47,110.63,0,4,3,5,0,54,67,20.68,7.00,17.7
-Sean Anthony Abbott,Australia,28,Male,Bowler,Right-hand bat,Right-arm fast-medium,54,442,39,10.52,407,108.59,0,26,17,51,0,89,108,22.00,8.49,15.5
-Alex Tyson Carey,Australia,29,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,67,1720,100,29.65,1325,129.81,1,157,51,58,13,-,-,-,-,-
-Cameron Green,Australia,21,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,9,106,36,15.14,98,108.16,0,7,0,4,0,1,0,-,10.50,-
-Moises Constantino Henriques,Australia,33,Male,Allrounder,Right-hand bat,Right-arm fast,187,3836,77,26.63,3002,127.78,0,294,115,93,0,150,111,29.98,8.29,21.6
-Mitchell Ross Marsh,Australia,29,Male,Allrounder,Right-hand bat,Right-arm medium,88,1969,93*,29.83,1590,123.83,0,115,89,37,0,69,49,28.24,8.51,19.8
-James Lee Pattinson,Australia,30,Male,Bowler,Left-hand bat,Right-arm fast-medium,22,106,27*,8.15,105,100.95,0,5,4,14,0,49,58,25.06,8.41,17.8
-Daniel Richard Sams,Australia,28,Male,Allrounder,Right-hand bat,Left-arm fast-medium,36,308,65*,10.62,229,134.49,0,17,19,15,0,43,57,20.96,8.41,14.9
-Billy Stanlake,Australia,26,Male,Bowler,Left-hand bat,Right-arm fast,13,28,7,14.00,35,80,0,1,1,7,0,67,70,27.15,7.94,20.5
-Mitchell Joseph Swepson,Australia,27,Male,Bowler,Right-hand bat,Legbreak,18,48,12*,4.36,54,88.88,0,3,1,15,0,45,46,26.30,7.64,20.6
-Matthew Scott Wade,Australia,32,Male,Wicketkeeper batsman,Wicketkeeper,Left-hand bat,113,2610,130*,27.76,1926,135.51,1,205,89,65,8,-,-,-,-,-
-Ashton Charles Agar,Australia,27,Male,Bowler,Left-hand bat,Slow left-arm orthodox,70,882,68,18.37,760,116.05,0,61,31,51,0,88,75,27.78,7.43,22.4
-Patrick James Cummins,Australia,27,Male,Bowler,Right-hand bat,Right-arm fast,52,469,53*,16.17,369,127.1,0,28,23,22,0,96,109,25.49,7.75,19.7
-Josh Reginald Hazlewood,Australia,29,Male,Bowler,Left-hand bat,Right-arm fast-medium,6,23,12*,11.50,26,88.46,0,3,0,6,0,40,44,25.88,7.50,20.7
-Marnus Labuschagne,Australia,26,Male,Batting allrounder,Right-hand bat,Legbreak,9,97,28,12.12,97,100,0,4,2,4,0,6,1,81.00,11.57,42.0
-Glenn James Maxwell,Australia,32,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,270,6287,145*,27.09,4119,152.63,3,504,317,145,0,193,101,32.17,7.72,24.9
-Jhye Avon Richardson,Australia,24,Male,Bowler,Right-hand bat,Right-arm fast,21,154,33*,19.25,117,131.62,0,8,8,19,0,47,52,25.57,7.88,19.4
-D'Arcy John Matthew Short,Australia,30,Male,Opening batsman,Left-hand bat,Left-arm wrist-spin,90,3079,122*,37.54,2276,135.28,2,316,109,34,0,63,40,31.20,8.33,22.4
-Mitchell Aaron Starc,Australia,30,Male,Bowler,Left-hand bat,Left-arm fast,32,136,29,8.50,150,90.66,0,11,1,33,0,97,144,17.77,7.16,14.8
-Ashton James Turner,Australia,27,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,80,1315,73,21.20,972,135.28,0,78,59,32,0,26,17,17.23,6.97,14.8
-David Andrew Warner,Australia,34,Male,Opening batsman,Left-hand bat,Legbreak,297,9824,135*,37.93,6939,141.57,8,958,373,144,0,2,0,-,12.85,-
-Joseph Anthony Burns,Australia,31,Male,Batsman,Right-hand bat,Right-arm medium,64,1319,81*,24.42,1095,120.45,0,87,52,22,0,8,3,23.66,7.88,18.0
-Aaron James Finch,Australia,34,Male,Top-order batsman,Right-hand bat,Slow left-arm orthodox,298,9389,172,35.29,6596,142.34,8,911,387,134,0,27,7,51.28,9.24,33.2
-Travis Michael Head,Australia,26,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,77,2036,101*,31.32,1496,136.09,1,141,90,25,0,37,21,25.95,8.62,18.0
-Nathan Michael Lyon,Australia,33,Male,Bowler,Right-hand bat,Right-arm offbreak,16,55,11,6.11,59,93.22,0,4,0,14,0,44,54,20.51,7.21,17.0
-Timothy David Paine,Australia,36,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,74,1637,91,23.05,1335,122.62,0,161,44,56,15,-,-,-,-,-
-Kane William Richardson,Australia,29,Male,Bowler,Right-hand bat,Right-arm fast-medium,37,292,45,14.60,252,115.87,0,15,11,46,0,111,135,23.65,7.90,17.9
-Steven Peter Devereux Smith,Australia,31,Male,Middle-order batsman,Right-hand bat,Right-arm fast,185,4438,101,30.60,3511,126.4,1,393,103,111,0,52,54,19.55,7.68,15.2
-Marcus Peter Stoinis,Australia,31,Male,Middle-order batsman,Right-hand bat,Right-arm medium,125,2947,147*,31.68,2242,131.44,1,247,98,34,0,91,75,26.64,8.84,18.0
-Andrew James Tye,Australia,34,Male,Bowler,Right-hand bat,Right-arm medium-fast,59,423,42,11.43,353,119.83,0,26,22,49,0,144,197,21.98,8.07,16.3
-Adam Zampa,Australia,28,Male,Bowler,Right-hand bat,Legbreak googly,49,171,17*,6.10,200,85.5,0,14,2,24,0,154,179,22.11,7.26,18.2
-Abu Jayed Chowdhury,Bangladesh,27,Male,Bowler,Right-hand bat,Right-arm fast-medium,16,37,10*,7.40,36,102.77,0,4,1,7,0,60,66,22.87,8.19,16.7
-Aminul Islam Biplob,Bangladesh,21,Male,Allrounder,Right-hand bat,Legbreak googly,8,72,34*,18.00,65,110.76,0,9,1,5,0,14,14,23.71,7.54,18.8
-Imrul Kayes,Bangladesh,33,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,126,2745,82*,23.86,2338,117.4,0,249,106,44,0,3,0,-,6.60,-
-Mohammad Mahmudullah,Bangladesh,34,Male,Allrounder,Right-hand bat,Right-arm offbreak,204,4147,70*,25.44,3422,121.18,0,322,139,102,0,158,104,26.09,7.10,22.0
-Mominul Haque,Bangladesh,29,Male,Middle-order batsman,Left-hand bat,Slow left-arm orthodox,87,1680,91,22.40,1477,113.74,0,168,36,32,0,14,6,38.16,7.89,29.0
-Mohammad Mithun,Bangladesh,29,Male,Top-order batsman,Right-hand bat,Wicketkeeper,116,2293,84*,23.16,1953,117.4,0,147,92,44,16,-,-,-,-,-
-Mustafizur Rahman,Bangladesh,25,Male,Bowler,Left-hand bat,Left-arm fast-medium,40,116,21*,6.44,144,80.55,0,7,8,26,0,121,162,20.14,7.23,16.7
-Mohammad Rubel Hossain,Bangladesh,30,Male,Bowler,Right-hand bat,Right-arm fast,41,102,36,5.36,124,82.25,0,7,2,27,0,120,148,22.81,7.98,17.1
-Shadman Islam Anik,Bangladesh,25,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,9,151,45,16.77,163,92.63,0,16,1,6,0,-,-,-,-,-
-Soumya Sarkar,Bangladesh,27,Male,Middle-order batsman,Left-hand bat,Right-arm medium-fast,122,3486,149,30.05,5709,61.06,3,471,49,58,0,77,34,45.23,3.36,80.5
-Afif Hossain Dhrubo,Bangladesh,21,Male,Allrounder,Left-hand bat,Right-arm offbreak,52,9,1191,97,32.18,1437,82.88,8,91,34,22,52,1045,5/32,43.54,5.19
-Ebadot Hossain Chowdhury,Bangladesh,26,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,7,3*,7.00,8,87.5,0,0,0,2,0,23,24,27.00,7.90,20.5
-Liton Kumar Das,Bangladesh,26,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,34,859,94,26.03,1487,57.76,0,119,4,32,2,114,274,66.79,15,23
-Mashrafe Bin Mortaza,Bangladesh,37,Male,Bowler,Right-hand bat,Right-arm fast-medium,106,1046,56*,13.41,796,131.4,0,70,65,34,0,163,153,29.07,7.51,23.2
-Mosaddek Hossain Saikat,Bangladesh,25,Male,Middle-order batsman,Right-hand bat,Right-arm fast-medium,74,1292,60*,23.49,1163,111.09,0,96,37,33,0,53,28,28.25,7.29,23.2
-Mohammad Nayeem Hasan,Bangladesh,20,Male,Bowler,Right-hand bat,Right-arm offbreak,20,108,24*,7.71,151,71.52,0,7,1,9,0,28,18,36.27,7.25,30.0
-Mohammad Sabbir Rahman,Bangladesh,29,Male,Middle-order batsman,Right-hand bat,Legbreak,150,3308,122,25.44,2742,120.64,1,276,121,86,0,33,18,24.00,7.18,20.0
-Shafiul Islam,Bangladesh,31,Male,Bowler,Right-hand bat,Right-arm fast-medium,34,156,25*,9.75,176,88.63,0,14,3,22,0,107,112,25.76,8.18,18.8
-Taijul Islam,Bangladesh,28,Male,Bowler,Left-hand bat,Slow left-arm orthodox,26,179,22*,11.18,228,78.5,0,13,2,11,0,80,73,24.20,7.30,19.8
-Al-Amin Hossain,Bangladesh,30,Male,Bowler,Right-hand bat,Right-arm medium-fast,29,48,17,4.36,79,60.75,0,4,1,15,0,110,123,24.76,8.08,18.3
-Hasan Mahmud,Bangladesh,21,Male,Bowler,Right-hand bat,Right-arm medium,7,16,15*,8.00,16,100,0,3,0,3,0,23,21,30.47,8.18,22.3
-Mahedi Hasan,Bangladesh,26,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,30,509,68*,19.57,407,125.06,0,34,31,10,0,51,41,29.87,7.31,24.5
-Mehidy Hasan Miraz,Bangladesh,23,Male,Allrounder,Right-hand bat,Right-arm offbreak,64,1321,80,24.92,2367,55.8,0,158,15,32,0,65,161,29.03,3.00,58.0
-Mohammad Saifuddin,Bangladesh,24,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,74,14,988,68,29.05,1232,80.19,7,68,19,14,74,3066,5/9,27.13,5.23
-Mohammad Mushfiqur Rahim,Bangladesh,33,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,187,4288,98*,28.97,3351,127.96,0,367,124,106,47,-,-,-,-,-
-Najmul Hossain Shanto,Bangladesh,22,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,57,1208,115*,23.23,932,129.61,2,108,46,29,0,8,2,52.50,7.87,40.0
-Mohammad Saif Hassan,Bangladesh,22,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,10,269,61,26.90,231,116.45,0,31,8,7,0,1,0,-,9.00,-
-Shakib Al Hasan,Bangladesh,33,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,290,5080,86*,20.73,4161,122.08,0,474,126,80,0,311,360,21.28,6.87,18.5
-Tamim Iqbal Khan,Bangladesh,31,Male,Opening batsman,Left-hand bat,-,217,6173,141*,31.33,5180,119.16,3,634,183,62,0,2,0,-,8.30,-
-Mohammad Naim Sheikh,Bangladesh,21,Male,Opening batsman,Left-hand bat,-,34,928,105,29.93,797,116,43,1,85,28,17,0,-,-,-,-
-Moeen Munir Ali,England,33,Male,Batting allrounder,Left-hand bat,Right-arm offbreak,158,3513,121*,24.73,2506,140.18,2,346,154,54,0,138,110,26.96,7.68,21.0
-Jonathan Marc Bairstow,England,31,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,123,2975,114,28.88,2212,134.49,2,249,120,82,13,-,-,-,-,-
-Samuel William Billings,England,29,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,165,3267,95*,23.33,2510,130.15,0,276,96,100,14,-,-,-,-,-
-Joseph Charles Buttler,England,30,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,248,6327,95*,31.16,4372,144.71,0,549,266,149,28,-,-,-,-,-
-Thomas Kevin Curran,England,25,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,76,972,62,19.83,734,132.42,0,85,28,41,0,131,157,25.34,8.84,17.1
-Christopher James Jordan,England,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,126,1052,45*,14.02,893,117.8,0,79,37,121,0,206,225,26.72,8.54,18.7
-Eoin Joseph Gerard Morgan,England,34,Male,Middle-order batsman,Left-hand bat,Right-arm medium,292,6879,91,27.62,5174,132.95,0,527,320,136,0,-,-,-,-,-
-Joseph Edward Root,England,29,Male,Top-order batsman,Right-hand bat,"Right-arm offbreak, Legbreak",71,1897,92*,33.28,1480,128.17,0,212,28,34,0,36,17,31.00,8.63,21.5
-Benjamin Andrew Stokes,England,29,Male,Allrounder,Left-hand bat,Right-arm fast-medium,123,2668,107*,25.90,1960,136.12,2,218,113,59,0,95,72,32.63,8.50,23.0
-David Jonathan Willey,England,30,Male,Bowling allrounder,Left-hand bat,Left-arm fast-medium,140,2722,118,23.66,1945,139.94,2,210,142,74,0,164,180,22.88,7.85,17.4
-James Michael Anderson,England,38,Male,Bowler,Left-hand bat,Right-arm fast-medium,10,23,16,5.75,26,88.46,0,3,0,8,0,44,41,32.14,8.47,22.7
-Tom Banton,England,22,Male,Opening batsman,Right-hand bat,Wicketkeeper,41,1111,100,28.48,729,152.4,1,118,52,20,3,-,-,-,-,-
-Stuart Christopher John Broad,England,34,Male,Bowler,Left-hand bat,Right-arm fast-medium,32,152,18*,7.60,149,102.01,0,10,3,26,0,83,100,21.44,7.19,17.8
-Zak Crawley,England,22,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,23,652,108*,31.04,434,150.23,1,71,19,8,0,-,-,-,-,-
-Joseph Liam Denly,England,34,Male,Top-order batsman,Right-hand bat,Legbreak,206,5238,127,27.86,4268,122.72,4,549,147,83,0,41,34,23.85,7.93,18.0
-Saqib Mahmood,England,23,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,19,6,9.50,25,76,0,1,0,3,0,28,30,24.10,8.47,17.0
-Oliver John Douglas Pope,England,22,Male,Middle-order batsman,Right-hand bat,Wicketkeeper,34,736,48,28.30,549,134.06,0,69,13,15,0,-,-,-,-,-
-Reece James William Topley,England,26,Male,Bowler,Right-hand bat,Left-arm fast-medium,15,22,5*,4.40,39,56.41,0,2,0,19,0,83,116,20.88,8.17,15.3
-Christopher Roger Woakes,England,31,Male,Allrounder,Right-hand bat,Right-arm fast-medium,69,803,57*,24.33,590,136.1,0,65,28,41,0,108,121,25.12,8.38,17.9
-Jofra Chioke Archer,England,25,Male,Bowler,Right-hand bat,Right-arm fast,59,532,36,17.16,363,146.55,0,39,23,31,0,112,146,22.40,7.66,17.5
-Dominic Mark Bess,England,23,Male,Bowling allrounder,Right-hand bat,Right-arm offbreak,4,9,5*,3.00,12,75,0,1,0,0,0,8,5,43.20,8.30,31.2
-Rory Joseph Burns,England,30,Male,Top-order batsman,Left-hand bat,Right-arm medium,45,640,56*,17.29,518,123.55,0,67,12,21,1,-,-,-,-,-
-Samuel Matthew Curran,England,22,Male,Allrounder,Left-hand bat,Left-arm medium-fast,68,1032,55*,19.47,789,130.79,0,91,44,25,0,84,79,29.60,8.61,20.6
-Lewis Gregory,England,28,Male,Allrounder,Right-hand bat,Right-arm medium-fast,88,1468,76*,21.91,1000,146.8,0,130,58,48,0,102,109,26.17,8.82,17.7
-Dawid Johannes Malan,England,33,Male,Top-order batsman,Left-hand bat,Legbreak,208,5852,117,33.63,4523,129.38,5,589,176,71,0,52,23,31.39,7.64,24.6
-Adil Usman Rashid,England,32,Male,Bowler,Right-hand bat,Legbreak,89,691,36*,12.56,662,104.38,0,49,11,49,0,172,201,22.58,7.43,18.2
-Dominic Peter Sibley,England,25,Male,Opening batsman,Right-hand bat,Legbreak,32,859,74*,29.62,707,121.49,0,72,22,17,0,15,5,67.60,8.89,45.6
-James Michael Vince,England,29,Male,Batsman,Right-hand bat,Right-arm medium,221,5936,107*,29.82,4467,132.88,1,664,148,116,0,7,3,29.00,6.69,26.0
-Mark Andrew Wood,England,30,Male,Bowler,Right-hand bat,Right-arm fast,13,106,27*,17.66,103,102.91,0,10,0,4,0,32,38,23.86,8.28,17.2
-Jason Jonathan Roy,England,30,Male,Opening batsman,Right-hand bat,-,213,5586,122,27.51,3890,143.59,4,610,212,98,0,2,1,39.00,13,18.00
-Mayank Anurag Agarwal,India,29,Male,Batsman,Right-hand bat,Right-arm offbreak,142,3393,111,25.70,2518,134.74,2,331,122,56,0,1,0,-,8.00,-
-Yuzvendra Singh Chahal,India,30,Male,Bowler,Right-hand bat,Legbreak googly,32,56,10,4.30,101,55.44,0,1,0,48,0,188,214,23.78,7.56,18.8
-Shreyas Santosh Iyer,India,26,Male,Top-order batsman,Right-hand bat,Legbreak googly,142,3854,147,31.85,2967,129.89,2,317,164,58,0,3,1,72.00,10.53,41.0
-Virat Kohli,India,32,Male,Top-order batsman,Right-hand bat,Right-arm medium,284,9500,113,41.30,7092,133.95,5,838,302,132,0,44,8,82.62,8.73,56.7
-Thangarasu Natarajan,India,29,Male,Bowler,Left-hand bat,Left-arm medium,4,5,3*,5.00,10,50,0,0,0,13,0,41,41,25.90,7.47,20.7
-Ravindrasinh Anirudhsinh Jadeja,India,32,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,176,2586,50,23.72,2038,126.88,0,186,92,93,0,222,164,30.93,7.65,24.2
-Deepak Lokandersingh Chahar,India,28,Male,Bowler,Right-hand bat,Right-arm medium,37,247,55*,11.76,192,128.64,0,12,18,16,0,92,108,22.52,7.41,18.2
-Ravichandran Ashwin,India,34,Male,Bowling allrounder,Right-hand bat,Right-arm offbreak,91,751,46,13.41,654,114.83,0,71,18,58,0,244,248,24.64,6.92,21.3
-Gade Hanuma Vihari,India,27,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,73,1355,81,20.84,1206,112.35,0,119,31,29,2,32,22,22.72,7.35,18.5
-Prithvi Pankaj Shaw,India,21,Male,Opening batsman,Right-hand bat,Right-arm offbreak,51,1200,99,23.52,819,146.52,0,132,54,13,0,-,-,-,-,-
-Sanju Viswanath Samson,India,26,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,160,3904,102*,26.92,3019,129.31,2,295,169,86,14,1,1,4.00,8.00,3.0
-Kannaur Lokesh Rahul,India,28,Male,Opening batsman,Right-hand bat,Wicketkeeper,135,4827,132*,43.09,3490,138.3,4,422,192,67,8,-,-,-,-,-
-Rishabh Rajendra Pant,India,23,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,108,3018,128*,32.80,2012,150,2,264,151,69,17,-,-,-,-,-
-Kuldeep Yadav,India,26,Male,Bowler,Left-hand bat,Left-arm wrist-spin,22,125,17*,12.50,138,90.57,0,12,0,26,0,96,120,21.72,7.54,17.2
-Manish Krishnanand Pandey,India,31,Male,Top-order batsman,Right-hand bat,Right-arm medium,234,5751,129*,31.95,4608,124.8,3,482,175,126,2,10,10,21.20,7.57,16.8
-Cheteshwar Arvind Pujara,India,32,Male,Top-order batsman,Right-hand bat,Legbreak,56,1356,100*,29.47,1240,109.35,1,158,20,32,0,-,-,-,-,-
-Wriddhiman Prasanta Saha,India,36,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,168,3446,129,25.52,2591,132.99,2,318,117,102,30,-,-,-,-,-
-Ishant Sharma,India,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,33,65,10*,8.12,78,83.33,0,5,2,29,0,134,106,35.19,7.80,27.0
-Shubman Gill,India,21,Male,Opening batsman,Right-hand bat,Right-arm offbreak,48,1217,78,33.80,949,128.24,0,115,36,21,0,-,-,-,-,-
-Washington Sundar,India,21,Male,Bowling allrounder,Left-hand bat,Right-arm offbreak,55,828,54*,22.37,678,122.12,0,63,28,24,0,85,67,27.95,6.61,25.3
-Jasprit Jasbirsingh Bumrah,India,27,Male,Bowler,Right-hand bat,Right-arm fast,23,74,16*,10.57,80,92.5,0,4,3,24,0,171,209,21.54,7.03,18.3
-Shikhar Dhawan,India,35,Male,Opening batsman,Left-hand bat,Right-arm offbreak,276,7993,106*,32.36,6389,125.1,2,905,180,110,0,6,4,16.50,8.25,12.0
-Kedar Mahadav Jadhav,India,35,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,121,2110,69,23.18,1640,128.65,0,194,67,49,7,4,4,22.00,8.80,15.0
-Mohammed Shami Ahmed,India,30,Male,Bowler,Right-hand bat,Right-arm fast,25,68,21,5.23,70,97.14,0,6,2,20,0,98,111,26.27,8.42,18.7
-Hardik Himanshu Pandya,India,27,Male,Allrounder,Right-hand bat,Right-arm medium-fast,128,2505,91,28.79,1743,143.71,0,161,152,86,0,127,106,27.21,8.20,19.9
-Ajinkya Madhukar Rahane,India,32,Male,Top-order batsman,Right-hand bat,Right-arm medium,196,5101,105*,28.98,4274,119.34,2,530,96,86,0,1,1,5.00,5.00,6.0
-Navdeep Amarjeet Saini,India,28,Male,Bowler,Right-hand bat,Right-arm fast,12,50,12*,16.66,60,83.33,0,5,0,14,0,57,49,31.36,7.35,25.5
-Rohit Gurunath Sharma,India,33,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,327,8974,118,32.05,6723,133.48,6,790,380,137,0,57,29,28.17,7.80,21.6
-Shardul Narendra Thakur,India,29,Male,Bowler,Right-hand bat,Right-arm medium,28,168,22*,9.88,149,112.75,0,10,6,30,0,99,116,25.15,8.44,17.8
-Umeshkumar Tilak Yadav,India,33,Male,Bowler,Right-hand bat,Right-arm fast,49,194,26,8.81,167,116.16,0,16,11,38,0,146,148,28.90,8.36,20.7
-Mark Richard Adair,Ireland,24,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,29,322,38,13.41,242,133.05,0,24,15,16,0,37,49,18.85,7.01,16.1
-Curtis Campher,Ireland,21,Male,Bowling allrounder,Right-hand bat,Right-arm medium-fast,5,135,62*,45.00,83,162.65,0,9,9,3,0,6,4,50.50,11.22,27.0
-Gareth James Delany,Ireland,23,Male,Allrounder,Right-hand bat,Legbreak googly,52,1264,89*,26.33,888,142.34,0,126,56,17,0,42,38,22.92,7.31,18.7
-Edmund Christopher Joyce,Ireland,42,Male,Top-order batsman,Left-hand bat,Right-arm medium,85,1453,78*,20.18,1508,96.35,0,123,14,29,0,1,0,-,12.00,-
-Andrew Robert McBrine,Ireland,27,Male,Bowler,Left-hand bat,Right-arm offbreak,28,354,52*,20.82,317,111.67,0,32,11,13,0,30,35,16.65,6.91,14.4
-Timothy James Murtagh,Ireland,39,Male,Bowler,Left-hand bat,Right-arm fast-medium,39,227,40*,9.08,214,106.07,0,23,4,23,0,106,113,25.18,8.16,18.5
-William Thomas Stuart Porterfield,Ireland,36,Male,Batsman,Left-hand bat,Right-arm offbreak,183,4372,127*,26.17,3533,123.74,1,475,106,82,0,-,-,-,-,-
-James Norman Knight Shannon,Ireland,30,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,8,111,60,13.87,84,132.14,0,12,5,1,0,18,67,143.83,0,5
-Harry Tom Tector,Ireland,21,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,40,805,91,25.96,603,133.49,0,61,29,22,0,15,11,25.54,7.39,20.7
-Lorcan John Tucker,Ireland,24,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,40,432,51,14.40,352,122.72,0,35,17,29,5,-,-,-,-,-
-Andrew Balbirnie,Ireland,29,Male,Batsman,Right-hand bat,Right-arm offbreak,74,1841,99*,27.47,1384,133.02,0,206,38,31,0,-,-,-,-,-
-Peter Karl David Chase,Ireland,27,Male,Bowler,Right-hand bat,Right-arm medium-fast,11,19,9*,6.33,24,79.16,0,3,0,14,0,34,43,21.83,8.35,15.6
-George Henry Dockrell,Ireland,28,Male,Bowler,Right-hand bat,Slow left-arm orthodox,55,470,40*,15.66,392,119.89,0,33,10,88,0,131,141,21.18,7.10,17.8
-Tyrone Edward Kane,Ireland,26,Male,Bowler,Right-hand bat,Right-arm medium-fast,19,237,36,18.23,162,146.29,0,19,13,9,0,26,39,14.97,7.89,11.3
-Barry John McCarthy,Ireland,28,Male,Bowler,Right-hand bat,Right-arm medium,12,40,18*,5.71,38,105.26,0,1,2,1,0,25,29,27.20,9.78,16.6
-Kevin Joseph O'Brien,Ireland,36,Male,Batting allrounder,Right-hand bat,Right-arm medium-fast,213,4093,124,22.36,2998,136.52,2,330,191,86,0,131,121,22.01,7.65,17.2
-Stuart William Poynter,Ireland,30,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,51,725,61*,23.38,582,124.57,0,55,14,36,10,-,-,-,-,-
-Simi Singh,Ireland,33,Male,Bowling allrounder,Right-hand bat,Right-arm offbreak,42,740,109,21.14,567,130.51,1,51,31,16,0,46,43,21.04,7.35,17.1
-Greg James Thompson,Ireland,33,Male,Bowler,Right-hand bat,Legbreak,23,499,80,27.72,364,137.08,0,51,21,10,0,-,-,-,-,-
-Gary Craig Wilson,Ireland,34,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,176,3350,80,24.10,2949,113.59,0,295,60,112,24,-,-,-,-,-
-James Cameron-Dow,Ireland,30,Male,Batsman,Left-hand bat,Slow left-arm orthodox,2,10,8,10,9,111.11,0,1,0,4,0,5,5,16.00,7.27,13.2
-David Colin Alex Delany,Ireland,22,Male,Bowler,Left-hand bat,Right-arm medium-fast,11,126,25,18.00,107,117.75,0,9,6,4,0,20,18,29.50,7.86,22.5
-Shane Charles Getkate,Ireland,29,Male,Allrounder,Right-hand bat,Right-arm medium-fast,33,449,49,15.48,381,117.84,0,32,18,12,0,39,52,18.84,8.42,13.4
-Joshua Brian Little,Ireland,21,Male,Bowler,Right-hand bat,Left-arm fast-medium,9,25,7,5.00,35,71.42,0,3,0,7,0,26,22,34.81,8.52,24.5
-James Alexander McCollum,Ireland,25,Male,Opening batsman,Right-hand bat,Right-arm medium,12,198,79*,19.80,159,124.52,0,22,5,3,0,-,-,-,-,-
-Niall John O'Brien,Ireland,39,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,127,2329,84,21.36,2091,111.38,0,203,41,82,35,-,-,-,-,-
-William Boyd Rankin,Ireland,36,Male,Bowler,Left-hand bat, Right-arm fast-medium,26,87,16*,7.25,102,85.29,0,4,4,23,0,96,107,22.42,7.20,18.6
-Paul Robert Stirling,Ireland,30,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,230,5749,109,26.25,4038,142.37,1,689,209,68,0,112,72,26.15,7.33,21.4
-Stuart Robert Thompson,Ireland,29,Male,Bowler,Left-hand bat,Right-arm medium-fast,52,672,56,16.00,577,116.46,0,58,24,39,0,50,32,34.62,8.31,25.0
-Craig Alexander Young,Ireland,30,Male,Bowler,Right-hand bat,Right-arm fast-medium,16,49,8*,7.00,60,81.66,0,5,0,15,0,53,64,21.01,7.83,16.0
-Hamish Kyle Bennett,New Zealand,33,Male,Bowler,Left-hand bat,Right-arm medium-fast,15,26,12*,5.20,33,78.78,0,2,0,9,0,60,52,29.38,7.95,22.1
-Thomas Charles Bruce,New Zealand,29,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,17,279,59*,18.60,228,122.36,0,24,7,15,0,75,88*,143.82,0,11
-Colin de Grandhomme,New Zealand,34,Male,Allrounder,Right-hand bat,Right-arm medium-fast,176,3302,72*,24.45,2048,161.23,0,240,199,87,0,123,66,38.80,9.35,24.8
-Martin James Guptill,New Zealand,34,Male,Opening batsman,Right-hand bat,Right-arm offbreak,250,7393,120*,32.56,5651,130.82,4,642,335,151,0,4,0,-,8.75,-
-Thomas William Maxwell Latham,New Zealand,28,Male,Wicketkeeper batsman,Left-hand bat,Right-arm medium,68,1790,110,27.53,1347,132.88,1,148,61,37,2,-,-,-,-,-
-James Douglas Sheahan Neesham,New Zealand,30,Male,Batting allrounder,Left-hand bat,Right-arm medium-fast,101,1838,59*,26.25,1328,138.4,0,135,83,43,0,116,118,26.01,9.17,17.0
-Glenn Dominic Phillips,New Zealand,24,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,91,2692,116*,32.04,1963,137.13,4,234,129,56,8,1,0,-,10.00,-
-Inderbir Singh Sodhi,New Zealand,28,Male,Bowler,Right-hand bat,Legbreak,48,268,51,11.16,248,108.06,0,18,12,25,0,157,175,25.02,7.86,19.0
-Luteru Ross Poutoa Lote Taylor,New Zealand,36,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,269,6304,111*,31.05,4820,130.78,1,431,298,119,0,15,8,35.00,9.03,23.2
-Bradley-John Watling,New Zealand,35,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,60,1255,75,24.60,1152,108.94,0,109,17,36,3,-,-,-,-,-
-Thomas Ackland Blundell,New Zealand,30,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,37,818,79,24.05,657,124.5,0,70,21,22,2,1,0,-,24.00,-
-Mark Sinclair Chapman,New Zealand,26,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,77,1599,101,23.86,1233,129.68,1,135,55,25,0,26,18,25.50,7.77,19.6
-Jacob Andrew Duffy,New Zealand,26,Male,Bowler,Right-hand bat,Right-arm fast-medium,22,104,18,11.55,70,148.57,0,6,6,12,0,64,83,23.24,8.70,16.0
-Kyle Alex Jamieson,New Zealand,25,Male,Bowler,Right-hand bat,Right-arm medium,12,134,33*,26.80,99,135.35,0,9,3,4,0,33,49,19.81,7.96,14.9
-Daryl Joseph Mitchell,New Zealand,29,Male,Allrounder,Right-hand bat,Right-arm medium,82,1691,88*,30.19,1318,128.3,0,102,71,52,0,42,38,23.21,9.00,15.4
-Henry Michael Nicholls,New Zealand,29,Male,Top-order batsman,Left-hand bat,Right-arm offbreak,40,978,67*,29.63,773,126.52,0,90,24,21,0,1,0,-,5.00,-
-Mitchell Josef Santner,New Zealand,28,Male,Bowling allrounder,Left-hand bat,Slow left-arm orthodox,75,1044,45*,22.21,823,126.85,0,70,45,39,0,94,97,23.78,7.08,20.1
-William Edgar Richard Somerville,New Zealand,36,Male,Bowler,Right-hand bat,Right-arm offbreak,7,104,37*,52.00,81,128.39,0,5,7,6,0,26,20,32.00,7.47,25.7
-Blair Marshall Tickner,New Zealand,27,Male,Bowler,Right-hand bat,Right-arm medium-fast,10,22,10*,11.00,20,110,0,1,1,9,0,44,67,20.44,8.61,14.2
-Kane Stuart Williamson,New Zealand,30,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,186,4968,101*,31.05,3964,125.32,1,464,126,79,0,54,30,30.30,7.08,25.6
-Trent Alexander Boult,New Zealand,31,Male,Bowler,Right-hand bat,Left-arm fast-medium,24,51,8,4.63,72,70.83,0,1,1,45,0,112,130,26.28,8.39,18.7
-Devon Philip Conway,New Zealand,29,Male,Top-order batsman,Left-hand bat,Right-arm medium,72,2395,105*,40.59,1894,126.45,2,254,58,27,1,8,3,47.00,8.21,34.3
-Lachlan Hammond Ferguson,New Zealand,29,Male,Bowler,Right-hand bat,Right-arm medium-fast,13,66,24*,16.50,63,104.76,0,5,1,12,0,59,60,25.58,7.60,20.1
-Scott Christopher Kuggeleijn,New Zealand,28,Male,Bowling allrounder,Right-hand bat,Right-arm fast-medium,68,619,38*,17.19,475,130.31,0,39,25,45,0,108,106,29.05,8.60,20.2
-Colin Munro,New Zealand,33,Male,Opening batsman,Left-hand bat,Right-arm medium-fast,257,6589,109*,29.15,4575,144.02,4,557,351,70,0,65,31,32.48,9.21,21.1
-Ajaz Yunus Patel,New Zealand,32,Male,Bowler,Left-hand bat,Slow left-arm orthodox,16,69,12*,9.85,66,104.54,0,3,3,10,0,45,56,21.69,7.89,16.4
-Tim Louis Seifert,New Zealand,26,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,88,1986,107,26.48,1469,135.19,1,170,95,65,16,-,-,-,-,-
-Timothy Grant Southee,New Zealand,32,Male,Bowler,Right-hand bat,Right-arm medium-fast,93,773,74,12.46,522,148.08,0,58,43,85,0,185,204,27.54,8.32,19.8
-Neil Wagner,New Zealand,34,Male,Bowler,Left-hand bat,Left-arm medium-fast,38,198,16*,9.00,160,123.75,0,13,8,11,0,72,79,27.82,8.78,19.0
-William Alexander Young,New Zealand,28,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,60,1406,96,25.10,1069,131.52,0,106,55,29,0,-,-,-,-,-
-Abdullah Shafique,Pakistan,21,Male,Top-order batsman,Right-hand bat,Right-arm offbreak,13,399,102*,39.90,306,130.39,1,41,9,4,0,-,-,-,-,-
-Azhar Ali,Pakistan,35,Male,Top-order batsman,Right-hand bat,Legbreak,49,985,72,21.88,941,104.67,0,98,16,24,0,15,15,18.86,6.35,17.8
-Fakhar Zaman,Pakistan,30,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,133,3510,100*,27.20,2596,135.2,1,389,116,58,0,15,4,40.50,6.65,36.5
-Haris Rauf,Pakistan,27,Male,Bowler,Right-hand bat,Right-arm fast,8,33,12,5.50,28,117.85,0,4,2,16,0,55,83,19.55,8.08,14.5
-Iftikhar Ahmed,Pakistan,30,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,107,2188,90*,27.01,1796,121.82,0,166,82,40,0,52,23,35.78,7.63,28.1
-Khushdil Shah,Pakistan,25,Male,Middle-order batsman,Left-hand bat,Slow left-arm orthodox,63,1430,100,28.60,1058,135.16,1,103,77,29,1,15,6,33.83,6.34,32.0
-Mohammad Hafeez,Pakistan,40,Male,Allrounder,Right-hand bat,Right-arm offbreak,290,6758,102*,26.19,5470,123.54,2,693,214,99,0,217,177,23.84,6.41,22.2
-Muhammad Musa Khan,Pakistan,20,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,27,17*,13.50,25,108,0,3,1,4,0,26,27,29.29,8.64,20.3
-Shaheen Shah Afridi,Pakistan,20,Male,Bowler,Left-hand bat,Left-arm fast,18,61,14,5.08,86,70.93,0,3,2,8,0,68,92,21.16,7.69,16.5
-Usman Qadir,Pakistan,27,Male,Bowler,Left-hand bat,Legbreak,20,147,36,13.36,144,102.08,0,15,3,8,0,37,41,22.63,7.25,18.7
-Abid Ali,Pakistan,33,Male,Opening batsman,Right-hand bat,Legbreak,44,875,62*,21.87,821,106.57,0,89,12,17,2,-,-,-,-,-
-Mohammad Babar Azam,Pakistan,26,Male,Batsman,Right-hand bat,Right-arm offbreak,156,5692,114*,44.81,4463,127.53,4,580,106,74,0,5,4,21.25,6.53,19.5
-Fawad Alam,Pakistan,35,Male,Top-order batsman,Left-hand bat,Slow left-arm orthodox,98,2258,70,30.93,1893,119.28,0,182,34,35,0,47,43,18.90,7.37,15.3
-Haris Sohail,Pakistan,31,Male,Middle-order batsman,Left-hand bat,Slow left-arm orthodox,87,1913,69*,28.55,1747,109.5,0,155,51,37,0,5,4,20.25,7.96,15.2
-Syed Imad Wasim,Pakistan,32,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,150,1816,64,19.52,1435,126.55,0,167,44,64,0,194,172,25.39,6.47,23.5
-Mohammad Abbas,Pakistan,30,Male,Bowler,Right-hand bat,Right-arm medium-fast,10,32,15*,10.66,21,152.38,0,3,2,7,0,31,26,37.34,8.59,26.0
-Mohammad Hasnain,Pakistan,20,Male,Bowler,Right-hand bat,Right-arm fast,13,22,11,3.14,33,66.66,0,2,1,3,0,45,60,24.43,8.37,17.5
-Sarfaraz Ahmed,Pakistan,33,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,161,3081,89*,27.02,2406,128.05,0,294,60,107,44,1,0,-,9.00,-
-Shan Masood Khan,Pakistan,31,Male,Opening batsman,Right-hand bat,Right-arm offbreak,62,1373,103*,22.88,1155,118.87,1,161,19,24,0,-,-,-,-,-
-Wahab Riaz,Pakistan,35,Male,Bowler,Right-hand bat,Left-arm fast,156,1404,53,14.47,1060,132.45,0,111,56,80,0,264,316,21.83,7.27,18.0
-Asad Shafiq,Pakistan,34,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,98,2228,92*,25.03,1898,117.38,0,244,33,48,0,10,4,21.75,7.25,18.0
-Faheem Ashraf,Pakistan,26,Male,Bowling allrounder,Left-hand bat,Right-arm medium,72,759,54*,15.81,539,140.81,0,56,42,27,0,102,113,24.71,8.18,18.1
-Haider Ali,Pakistan,20,Male,Middle-order batsman,Right-hand bat,-,30,771,90,27.53,503,153.28,0,67,40,6,0,-,-,-,-,-
-Mohammad Hussain Talat,Pakistan,24,Male,Allrounder,Left-hand bat,Right-arm medium-fast,90,2076,80*,32.95,1654,125.51,0,183,59,23,0,54,37,28.16,8.90,18.9
-Imam-ul-Haq,Pakistan,25,Male,Top-order batsman,Left-hand bat,-,61,1875,94,35.37,1503,124.75,0,177,35,17,0,-,-,-,-,-
-Mohammad Amir,Pakistan,28,Male,Bowler,Left-hand bat,Left-arm fast,67,244,21*,6.59,270,90.37,0,13,9,16,0,182,216,22.20,7.07,18.8
-Mohammad Rizwan,Pakistan,28,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,93,2029,99*,30.74,1713,118.44,0,184,48,67,31,1,1,22.00,11.00,12.0
-Shadab Khan,Pakistan,22,Male,Allrounder,Right-hand bat,Legbreak,84,1127,77,17.88,846,133.21,0,66,55,52,0,136,164,21.82,7.10,18.4
-Shoaib Malik,Pakistan,38,Male,Allrounder,Right-hand bat,Right-arm offbreak,384,10387,95*,37.09,8243,126,0,812,308,162,0,236,151,27.15,7.02,23.1
-Yasir Shah,Pakistan,34,Male,Bowler,Right-hand bat,Legbreak googly,64,412,28,8.95,420,98.09,0,31,9,40,0,122,106,29.96,7.13,25.1
-Bjorn Carl Fortuin,South Africa,26,Male,Bowler,Right-hand bat,Slow left-arm orthodox,32,169,31*,8.89,150,112.66,0,8,5,19,0,65,76,19.21,6.44,17.8
-Heinrich Klaasen,South Africa,29,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,76,1513,77*,27.50,1089,138.93,0,100,64,40,19,5,1,68.00,9.71,42.0
-Janneman Nieuwoudt Malan,South Africa,24,Male,Top-order batsman,Right-hand bat,Legbreak,45,1369,128*,32.59,1010,135.54,2,148,48,28,0,-,-,-,-,-
-David Andrew Miller,South Africa,31,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,289,6900,120*,34.32,4999,138.02,3,495,300,206,1,3,0,-,10.33,-
-Dane Paterson,South Africa,31,Male,Bowler,Right-hand bat,Right-arm fast-medium,28,147,24*,9.18,107,137.38,0,11,5,24,0,85,91,25.27,7.70,19.6
-Dwaine Pretorius,South Africa,31,Male,Bowling allrounder,Right-hand bat,Right-arm medium-fast,109,1869,77*,21.98,1320,141.59,0,128,97,26,0,116,87,28.64,8.23,20.8
- Lubabalo Lutho Sipamla,South Africa,22,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,7,4*,2.33,14,50,0,0,0,18,0,33,33,28.66,8.92,19.2
-Petrus Johannes van Biljon,South Africa,34,Male,Wicketkeeper batsman,Right-hand bat,Right-arm medium,59,1324,75*,31.52,999,132.53,0,93,56,14,0,-,-,-,-,-
-Zubayr Hamza,South Africa,25,Male,Batsman,Right-hand bat,Legbreak,17,317,75,22.64,316,100.31,0,35,3,8,0,1,1,12.00,6.00,12.0
-Daryn Miles Dupavillon,South Africa,26,Male,Batsman,Right-hand bat,Right-arm fast,4,14,8,7,12,116.66,0,1,1,2,0,17,21,18.04,6.91,15.6
-Kyle Verreynne,South Africa,23,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,24,520,57,26.00,426,122.06,0,41,13,14,1,-,-,-,-,-
-Dale Willem Steyn,South Africa,37,Male,Bowler,Right-hand bat,Right-arm fast,69,313,27*,8.45,289,108.3,0,25,9,55,0,222,259,21.96,6.82,19.3
-Tabraiz Shamsi,South Africa,30,Male,Bowler,Right-hand bat,Left-arm wrist-spin,28,59,15*,5.90,107,55.14,0,1,1,23,0,133,146,23.99,7.30,19.7
-Vernon Darryl Philander,South Africa,35,Male,Allrounder,Right-hand bat,Right-arm fast-medium,89,1211,56*,27.52,882,137.3,0,63,53,28,0,114,92,31.17,7.95,23.5
-Anrich Arno Nortje,South Africa,27,Male,Bowler,Right-hand bat,Right-arm fast,9,14,4,3.50,22,63.63,0,1,0,9,0,40,50,23.12,7.88,17.6
-Aiden Kyle Markram,South Africa,26,Male,Opening batsman,Right-hand bat,Right-arm offbreak,2,18,15,9.00,17,105.88,0,1,1,1,0,37,82,123.06,0,8
-Keshav Athmanand Maharaj,South Africa,30,Male,Bowler,Right-hand bat,Slow left-arm orthodox,50,521,45*,20.84,423,123.16,0,48,16,26,0,92,75,30.44,6.77,26.9
-Reeza Raphael Hendricks,South Africa,31,Male,Opening batsman,Right-hand bat,Right-arm offbreak,118,3542,108*,35.42,2865,123.63,3,336,78,54,0,-,-,-,-,-
-Dean Elgar,South Africa,33,Male,Opening batsman,Left-hand bat,Slow left-arm orthodox,69,1849,88*,35.55,1639,112.81,0,134,51,29,0,44,29,24.93,6.91,21.6
-Quinton de Kock,South Africa,28,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,197,6090,126*,33.46,4389,138.75,4,636,245,141,35,-,-,-,-,-
-Hendrik Erasmus van der Dussen,South Africa,31,Male,Top-order batsman,Right-hand bat,Legbreak,111,3571,112*,37.98,2719,131.33,3,252,160,35,0,6,3,18.33,6.11,18.0
-Jon-Jon Trevor Smuts,South Africa,32,Male,Batting allrounder,Right-hand bat,Slow left-arm orthodox,142,3481,121,27.19,2765,125.89,3,359,109,34,0,116,84,27.22,6.91,23.6
-Kagiso Rabada,South Africa,25,Male,Bowler,Left-hand bat,Right-arm fast,37,224,44,9.33,223,100.44,0,19,8,29,0,98,138,20.97,7.86,16.0
-Andile Lucky Phehlukwayo,South Africa,24,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,58,528,37,11.23,457,115.53,0,45,20,10,0,79,77,24.93,8.40,17.8
-Lungisani True-man Ngidi,South Africa,24,Male,Bowler,Right-hand bat,Right-arm fast,6,9,4,3.00,16,56.25,0,0,0,14,0,68,94,18.67,7.88,14.2
-Pieter Jacobus Malan,South Africa,31,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,36,1091,140*,41.96,951,114.72,1,111,29,17,0,1,2,15.00,7.50,12.0
-George Fredrik Linde,South Africa,29,Male,Allrounder,Left-hand bat,Slow left-arm orthodox,61,715,52*,17.43,523,136.71,0,39,30,20,0,80,84,23.83,7.32,19.5
-Beuran Eric Hendricks,South Africa,30,Male,Bowler,Left-hand bat,Left-arm fast-medium,13,32,12*,4.57,47,68.08,0,0,1,15,0,70,97,21.53,8.58,15.0
-Francois du Plessis,South Africa,36,Male,Middle-order batsman,Right-hand bat,Legbreak,220,5859,119,30.04,4574,128.09,1,514,177,122,0,52,50,18.34,6.96,15.8
-Temba Bavuma,South Africa,30,Male,Middle-order batsman,Right-hand bat,Right-arm medium,67,1760,104,31.42,1368,128.65,1,153,40,35,0,-,-,-,-,-
-Minod Bhanuka Ranasinghe,Sri Lanka,25,Male,Top-order batsman,Left-hand bat,Wicketkeeper,46,807,70*,19.68,679,118.85,0,67,34,35,15,-,-,-,-,-
-Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,23,Male,Allrounder,Right-hand bat,Legbreak,43,693,74,20.38,503,137.77,0,66,18,27,0,46,63,16.07,6.64,14.5
-Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,34,Male,Bowler,Right-hand bat,Right-arm fast-medium,19,40,9*,8.00,58,68.96,0,4,1,11,0,53,55,24.01,8.14,17.6
-Weerahandige Inol Avishka Fernando,Sri Lanka,22,Male,Opening batsman,Right-hand bat,Right-arm medium-fast,45,1184,92*,27.53,863,137.19,0,103,60,14,0,-,-,-,-,-
-Frank Dimuth Madushanka Karunaratne,Sri Lanka,32,Male,Opening batsman,Left-hand bat,Right-arm medium,33,543,80,16.96,499,108.81,0,68,3,17,1,-,-,-,-,-
-Lahiru Dilshan Madushanka,Sri Lanka,28,Male,Allrounder,Right-hand bat,Right-arm fast-medium,31,375,51,15.00,338,110.94,0,21,13,18,0,41,34,25.97,8.07,19.2
-Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,25,Male,Wicketkeeper batsman,Right-hand bat,Legbreak,56,1414,79,26.18,1017,139.03,0,114,70,21,1,1,0,-,0.00,-
-Mathurage Don Kusal Janith Perera,Sri Lanka,30,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,105,2458,87,24.33,1859,132.22,0,230,96,38,19,-,-,-,-,-
-Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,27,Male,Bowler,Right-hand bat,Right-arm medium-fast,15,65,18*,10.83,85,76.47,0,1,4,5,0,41,66,18.54,8.16,13.6
-Madagamagamage Dasun Shanaka,Sri Lanka,29,Male,Allrounder,Right-hand bat,Right-arm medium,95,2124,131*,28.32,1450,146.48,3,144,139,32,0,49,27,34.03,8.93,22.8
-Lokuge Dinesh Chandimal,Sri Lanka,31,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,120,3064,101*,29.46,2574,119.03,1,283,80,74,25,-,-,-,-,-
-Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,27,Male,Wicketkeeper batsman,Left-hand bat,-,71,1494,79*,22.98,1063,140.54,0,194,34,48,16,-,-,-,-,-
-Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,28,Male,Batsman,Right-hand bat,Legbreak,19,295,78*,17.35,259,113.89,0,29,7,7,0,-,-,-,-,-
-Mashtayage Danushka Gunathilaka,Sri Lanka,29,Male,Allrounder,Left-hand bat,Right-arm offbreak,89,2296,102*,28.00,1778,129.13,1,243,75,29,0,43,30,26.80,7.58,21.2
-Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,23,Male,Bowler,Left-hand bat,Right-arm fast,7,6,4,2.00,10,60,0,1,0,1,0,18,20,25.85,8.14,19.0
-Separamadu Lasith Malinga,Sri Lanka,37,Male,Bowler,Right-hand bat,Right-arm fast,92,426,37*,8.03,414,102.89,0,31,21,54,0,289,390,19.69,7.08,16.6
-Angelo Kanishka Perera,Sri Lanka,30,Male,Allrounder,Right-hand bat,Slow left-arm orthodox,83,1727,74*,25.77,1439,120.01,0,124,58,53,0,23,17,20.82,7.53,16.5
-Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,25,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,45,1107,100*,25.74,907,122.05,1,114,16,29,19,-,-,-,-,-
-Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,31,Male,Top-order batsman,Left-hand bat,Right-arm medium-fast,71,1413,70,22.42,1196,118.14,0,110,40,29,0,-,-,-,-,-
-Narangoda Liyanaarachchilage Thisara Chirantha Perera,Sri Lanka,31,Male,Bowling allrounder,Left-hand bat,Right-arm medium-fast,242,3696,97*,21.24,2459,150.3,0,260,209,119,0,259,243,26.30,8.59,18.3
-Dhananjaya Maduranga de Silva,Sri Lanka,29,Male,Allrounder,Right-hand bat,Right-arm offbreak,55,1380,81*,27.60,1053,131.05,0,133,42,22,0,35,22,26.95,7.39,21.8
-Lasith Embuldeniya,Sri Lanka,24,Male,Bowler,Left-hand bat,Slow left-arm orthodox,2,8,4*,8.00,14,57.14,0,1,0,1,0,3,2,21.50,4.60,28.0
-Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,29,Male,Bowler,Right-hand bat,Left-arm medium-fast,4,11,7,2.75,17,64.7,0,1,0,1,0,14,12,24.41,8.13,18.0
-Gampalage Shehan Naveendra De Fonseka Gunawarna Jayasuriya,Sri Lanka,29,Male,Batting allrounder,Left-hand bat,Right-arm offbreak,79,1729,107,23.36,1404,123.14,1,146,51,40,0,68,53,25.22,7.44,20.3
-Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,33,Male,Bowler,Right-hand bat,Right-arm fast-medium,26,112,33,9.33,110,101.81,0,11,3,15,0,52,60,23.15,7.88,17.6
-Angelo Davis Mathews,Sri Lanka,33,Male,Allrounder,Right-hand bat,Right-arm medium,140,2568,81*,24.45,2151,119.38,0,181,82,57,0,128,85,31.81,7.39,25.8
-Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,38,Male,Allrounder,Right-hand bat,Right-arm offbreak,68,803,62,13.16,747,107.49,0,82,20,23,0,81,74,23.06,6.56,21.0
-Pramod Bhanuka Bandara Rajapaksa,Sri Lanka,29,Male,Top-order batsman,Left-hand bat,Right-arm medium,68,1521,96*,25.35,1129,134.72,0,129,75,19,0,18,21,16.57,7.40,13.4
-Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,29,Male,Bowler,Right-hand bat,Left-arm wrist-spin,18,51,10,5.66,80,63.75,0,4,0,17,0,53,62,23.32,7.66,18.2
-Isuru Udana Tillakaratna,Sri Lanka,32,Male,Allrounder,Right-hand bat,Left-arm medium-fast,96,999,84*,16.11,759,131.62,0,58,54,56,0,147,158,25.17,8.15,18.5
-Fabian Anthony Allen,West Indies,25,Male,Bowling allrounder,Right-hand bat,Slow left-arm orthodox,26,449,64*,24.94,282,159.21,0,36,28,9,0,26,17,32.88,7.85,25.1
-Darren Michael Bravo,West Indies,31,Male,Top-order batsman,Left-hand bat,Right-arm medium,134,3213,94*,32.45,2725,117.9,0,194,178,44,0,-,-,-,-,-
-Roston Lamar Chase,West Indies,28,Male,Allrounder,Right-hand bat,Right-arm offbreak,14,302,66,37.75,269,112.26,0,21,7,6,0,12,9,21.33,5.48,23.3
-Joshua Da Silva,West Indies,22,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,6,136,59,27.20,130,104.61,0,10,3,0,0,-,-,-,-,-
-Shannon Terry Gabriel,West Indies,32,Male,Bowler,Right-hand bat,Right-arm fast,8,4,2*,2.00,13,30.76,0,0,0,4,0,37,32,25.06,7.49,20.0
-Jason Omar Holder,West Indies,29,Male,Bowling allrounder,Right-hand bat,Right-arm medium-fast,91,1026,69,14.86,795,129.05,0,74,55,60,0,123,105,31.07,7.74,24.0
-Brandon Alexander King,West Indies,26,Male,Top-order batsman,Right-hand bat,-,47,1032,132,25.17,789,130.79,1,93,60,19,0,-,-,-,-,-
-Shane Omari Dowrich,West Indies,29,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,23,321,38,16.05,379,84.69,0,28,7,16,6,-,-,-,-,-
-Rahkeem Rashawn Shane Cornwall,West Indies,27,Male,Allrounder,Right-hand bat,Right-arm offbreak,46,776,78*,18.92,520,149.23,0,64,57,5,0,42,24,32.12,7.67,25.1
-Shamarh Shaqad Joshua Brooks,West Indies,32,Male,Top-order batsman,Right-hand bat,Legbreak,22,372,53,18.60,322,115.52,0,22,15,14,0,-,-,-,-,-
-Jermaine Blackwood,West Indies,29,Male,Middle-order batsman,Right-hand bat,Right-arm offbreak,23,357,74,17.85,392,91.07,0,25,13,4,0,-,-,-,-,-
-Oshane Romaine Thomas,West Indies,23,Male,Bowler,Left-hand bat,Right-arm fast,8,14,8*,7.00,26,53.84,0,2,0,6,0,41,56,23.26,9.17,15.2
-Kemar Andre Jamal Roach,West Indies,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,13,59,12,7.37,52,113.46,0,3,3,18,0,44,28,43.89,8.08,32.5
-Kieron Adrian Pollard,West Indies,33,Male,Allrounder,Right-hand bat,Right-arm medium,471,10578,104,31.67,6934,152.55,1,675,706,300,0,341,293,24.53,8.22,17.9
-Shimron Odilon Hetmyer,West Indies,23,Male,Top-order batsman,Left-hand bat,-,75,1585,100,24.76,1215,130.45,1,120,80,44,0,-,-,-,-,-
-Shai Diego Hope,West Indies,27,Male,Wicketkeeper batsman,Right-hand bat,Wicketkeeper,37,772,88,21.44,643,120.06,0,63,30,15,7,-,-,-,-,-
-Kyle Rico Mayers,West Indies,28,Male,Allrounder,Left-hand bat,Right-arm medium,54,688,85,16.78,621,110.78,0,33,38,16,0,31,16,36.12,7.79,27.8
-Nicholas Pooran,West Indies,25,Male,Wicketkeeper batsman,Left-hand bat,Wicketkeeper,142,2987,100*,25.31,2068,144.43,1,200,202,87,12,-,-,-,-,-
-Romario Shepherd,West Indies,26,Male,Bowler,Right-hand bat,Right-arm medium-fast,9,89,32*,17.80,56,158.92,0,7,5,7,0,21,25,21.96,8.23,16.0
-Hayden Rashidi Walsh,West Indies,28,Male,Bowler,Left-hand bat,Legbreak googly,15,155,28,15.50,164,94.51,0,9,3,14,0,33,40,20.72,8.08,15.3
-Kraigg Clairmonte Brathwaite,West Indies,28,Male,Opening batsman,Right-hand bat,Right-arm offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-John Dillon Campbell,West Indies,27,Male,Opening batsman,Left-hand bat,Right-arm offbreak,10,99,43,11.00,121,81.81,0,10,1,4,0,1,0,-,1.00,-
-Sheldon Shane Cottrell,West Indies,31,Male,Bowler,Right-hand bat,Left-arm fast-medium,34,160,26*,7.27,144,111.11,0,11,10,47,0,102,135,20.55,7.57,16.2
-Andre David Stephon Fletcher,West Indies,33,Male,Top-order batsman,Right-hand bat,"Right-arm medium-fast, Legbreak",200,4921,103*,27.33,4207,116.97,1,413,212,101,17,4,2,25.00,8.33,18.0
-Chemar Keron Holder,West Indies,22,Male,Bowler,Right-hand bat,Right-arm fast,2,4,4*,-,4,100,0,1,0,0,0,7,6,36.16,10.33,21.0
-Alzarri Shaheim Joseph,West Indies,24,Male,Bowler,Right-hand bat,Right-arm fast-medium,17,107,21*,17.83,98,109.18,0,6,5,9,0,24,27,29.33,9.40,18.7
-Keemo Mandela Angus Paul,West Indies,22,Male,Allrounder,Right-hand bat,Right-arm fast-medium,39,389,38,14.96,356,109.26,0,16,22,17,0,60,60,27.68,8.76,18.9
-Rovman Powell,West Indies,27,Male,Middle-order batsman,Right-hand bat,Right-arm medium-fast,68,1225,84,22.27,959,127.73,0,80,69,45,0,29,16,45.62,10.28,26.6
-Lendl Mark Platter Simmons,West Indies,35,Male,Top-order batsman,Right-hand bat,Right-arm medium-fast,256,7010,100*,30.61,5867,119.48,1,637,312,95,0,32,22,24.86,8.72,17.0
-Kesrick Omari Kenal Williams,West Indies,30,Male,Bowler,Right-hand bat,Right-arm fast-medium,25,72,18*,6.54,91,79.12,0,4,3,23,0,97,129,22.79,8.70,15.7
-Ryan Ponsonby Burl,Zimbabwe,26,Male,Middle-order batsman,Left-hand bat,Legbreak,31,592,77*,26.90,494,119.83,0,41,21,18,0,23,15,27.13,8.14,20.0
-Tendai Larry Chatara,Zimbabwe,29,Male,Bowler,Right-hand bat,Right-arm fast-medium,11,24,8,3.00,35,68.57,0,1,0,18,0,59,65,23.55,7.31,19.3
-Tendai Sam Chisoro,Zimbabwe,32,Male,Bowler,Left-hand bat,"Left-arm fast-medium, Slow left-arm orthodox",36,447,85,15.96,377,118.56,0,31,15,8,0,42,27,39.70,7.80,30.5
-Kyle Malcolm Jarvis,Zimbabwe,31,Male,Bowler,Right-hand bat,Right-arm fast-medium,18,83,27,8.30,96,86.45,0,4,4,21,0,63,65,28.32,8.53,19.9
-Wesley Nyasha Madhevere,Zimbabwe,20,Male,Allrounder,Right-hand bat,Right-arm offbreak,5,107,70*,26.75,90,118.88,0,13,2,2,0,4,1,57.00,7.12,48.0
-Prince Spencer Masvaure,Zimbabwe,32,Male,-,Left-hand bat,Left-arm fast-medium,29,476,53,17.00,452,105.3,0,37,12,7,0,20,8,41.87,8.58,29.2
-Blessing Muzarabani,Zimbabwe,24,Male,Bowler,Right-hand bat,Right-arm fast-medium,6,15,9,7.50,24,62.5,0,2,0,3,0,12,14,26.28,8.79,17.9
-Carl Tapfuma Mumba,Zimbabwe,25,Male,Bowler,Right-hand bat,Right-arm fast-medium,3,31,25,15.50,20,155,0,4,1,0,0,5,3,51.66,9.11,34.0
-Wellington Pedzisai Masakadza,Zimbabwe,27,Male,Bowler,Left-hand bat,Slow left-arm orthodox,12,60,11,7.50,63,95.23,0,7,0,15,0,29,32,21.12,6.82,18.5
-Kevin Tatenda Kasuza,Zimbabwe,27,Male,Right-hand bat,Right-arm offbreak,Wicketkeeper,27,492,55,18.92,454,108.37,0,44,16,7,0,1,0,-,10.00,-
-Mohammad Faraz Akram,Zimbabwe,27,Male,Bowler,Left-hand bat,Right-arm medium,3,12,9*,12.00,26,46.15,0,1,0,0,0,5,1,91.00,7.37,74.0
-Elton Chigumbura,Zimbabwe,34,Male,Allrounder,Right-hand bat,Right-arm fast-medium,145,2452,103*,22.49,1864,131.54,1,139,132,58,0,87,77,24.76,8.41,17.6
-Brian Bara Chari,Zimbabwe,28,Male,Opening batsman,Right-hand bat,Right-arm offbreak,3,21,19,7.00,31,67.74,0,4,0,2,0,24,93,114.09,0,5
-Charlton Kirsh Tshuma,Zimbabwe,27,Male,Bowler,Right-hand bat,Right-arm fast-medium,-,-,-,-,-,-,-,-,-,0,0,3,5,9.20,6.57,8.4
-Sikandar Raza Butt,Zimbabwe,34,Male,Batting allrounder,Right-hand bat,Right-arm offbreak,103,1993,95,21.90,1608,123.94,0,176,63,52,0,76,43,33.11,7.56,26.2
-Richard Ngarava,Zimbabwe,22,Male,Bowler,Left-hand bat,Left-arm fast-medium,7,23,15*,7.66,21,109.52,0,2,1,2,0,15,11,37.27,8.11,27.5
-Richmond Mutumbami,Zimbabwe,31,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,54,831,58,19.32,752,110.5,0,63,29,21,10,-,-,-,-,-
-Christopher Bobby Mpofu,Zimbabwe,35,Male,Bowler,Right-hand bat,Right-arm fast-medium,33,140,27*,9.33,167,83.83,0,9,1,15,0,78,82,26.65,7.81,20.4
-Timycen Maruma,Zimbabwe,32,Male,Top-order batsman,Right-hand bat,Legbreak googly,54,664,81,13.83,581,114.28,0,59,23,26,0,28,27,20.44,6.75,18.1
-Tinashe Stephen Kamunhukamwe,Zimbabwe,25,Male,Opening batsman,Right-hand bat,Right-arm offbreak,12,109,28,9.08,108,100.92,0,17,1,2,0,-,-,-,-,-
-Craig Richard Ervine,Zimbabwe,35,Male,Middle-order batsman,Left-hand bat,Right-arm offbreak,59,1327,96,27.08,1108,119.76,0,122,42,30,0,-,-,-,-,-
-Chamunorwa Justice Chibhabha,Zimbabwe,34,Male,Top-order batsman,Right-hand bat,Right-arm medium,84,1941,86*,23.96,1695,114.51,0,191,52,26,0,59,44,30.70,8.79,20.9
-Regis Wiriranai Chakabva,Zimbabwe,33,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,12,159,48,14.45,134,118.65,0,12,7,4,0,52,61,114.99,0,1
-Donald Tatenda Tiripano,Zimbabwe,32,Male,Bowler,Right-hand bat,Right-arm fast-medium,19,149,30*,11.46,140,106.42,0,9,5,10,0,36,36,25.55,7.96,19.2
-Milton Shumba,Zimbabwe,20,Male,Top-order batsman,Left-hand bat,Slow left-arm orthodox,4,23,11,11.50,39,58.97,0,0,1,2,0,2,5,6.40,7.38,5.2
-Ainsley Ndlovu,Zimbabwe,24,Male,Bowler,Right-hand bat,Slow left-arm orthodox,1,2,2,2.00,4,50,0,0,0,3,0,5,7,115.38,0,0
-Confidence Tinotenda Mutombodzi,Zimbabwe,30,Male,Allrounder,Right-hand bat,Legbreak googly,40,346,33,13.30,360,96.11,0,22,6,14,0,42,35,25.65,7.39,20.8
-Brendan Ross Murray Taylor,Zimbabwe,34,Male,Wicketkeeper batsman,Right-hand bat,Right-arm offbreak,162,3681,101*,26.10,3004,122.53,1,352,100,64,14,8,8,19.00,6.08,18.7
-Sean Colin Williams,Zimbabwe,34,Male,Middle-order batsman,Left-hand bat,Slow left-arm orthodox,69,1223,66,22.23,1020,119.9,0,116,27,31,0,66,50,27.68,7.13,23.2
+Name,Country,Age,Player_type,Bowling_style,Batting_innings,Batting_average,Strike_rate,Runs,Balls_faced,Highest,Hundreds,Sixes,Fours,Bowling_innings,Bowling_average,Balls,Economy,Wickets,Best_bowling_figure,Bowling_strike_rate,Catches,Stumpings
+Moeen Àli,England,33,All-rounder,Right-arm offbreak,31,17.04,134.70,392,291,72,0,19,33,30,37.05,440,8.59,17,2/21,25.8,8,0
+Jofra Àrcher,England,25,Batsman,Right-arm fast,2,19.00,190.00,19,10,18,0,1,2,12,26.50,282,7.89,14,4/33,20.1,4,0
+Jonny Bàirstow,England,31,Wicketkeeper,Right-arm medium,45,29.16,139.25,1050,754,86,0,44,97,0,0,0,0,0,0,0,35,0
+Jàke Bàll,England,30,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,2,41.50,42,11.85,2,1/39,21.0,1,0
+Tom Bànton,England,22,Batsman,Wicketkeeper,9,22.77,143.35,205,143,71,0,9,19,0,0,0,0,0,0,0,6,0
+Sàm Billings,England,29,Wicketkeeper,Wicketkeeper,27,17.00,133.44,391,293,87,0,12,37,0,0,0,0,0,0,0,16,1
+Pàt Brown,England,22,Batsman,Right-arm fast-medium,1,0,44.44,4,9,4,0,0,0,4,42.66,78,9.84,3,1/29,26.0,2,0
+Jos Buttlèr,England,30,Wicketkeeper,Wicketkeeper,71,30.22,140.99,1723,1222,83,0,74,144,0,0,0,0,0,0,0,33,6
+Sàm Curràn,England,22,Batsman,Left-arm medium-fast,8,13.20,150.00,66,44,24,0,5,4,13,28.90,222,8.59,11,3/28,20.1,0,0
+Tom Curràn,England,26,Bowler,Right-arm fast-medium,11,13.50,114.89,54,47,14,0,4,0,27,32.23,540,9.31,26,4/36,20.7,8,0
+Liàm Dàwson,England,31,Batsman,Slow left-arm orthodox,2,17.00,212.50,17,8,10,0,1,2,6,30.40,120,7.60,5,3/27,24.0,2,0
+Joè Dènly,England,35,Batsman,Legbreak,12,12.50,105.93,125,118,30,0,1,15,6,13.28,72,7.75,7,4/19,10.2,4,0
+Bèn Duckètt,England,26,Batsman,Right-arm offbreak,1,9.00,128.57,9,7,9,0,0,1,0,0,0,0,0,0,0,0,0
+Ben Foàkes,England,28,Wicketkeeper,Wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Lèwis Grègory,England,28,Batsman,Right-arm medium-fast,6,7.00,116.66,35,30,15,0,2,2,4,92.00,66,8.36,1,1/10,66.0,0,0
+Àlex Hales,England,32,Batsman,Right-arm medium,60,31.01,136.65,1644,1203,116,1,55,175,0,0,0,0,0,0,0,32,0
+Chris Jordàn,England,32,Batsman,Right-arm fast-medium,35,14.21,128.57,270,210,36,0,13,18,59,26.70,1265,8.86,70,4/6,18.0,31,0
+Liàm Livingstone,England,27,Batsman,"Right-arm offbreak, Legbreak",2,8.00,84.21,16,19,16,0,0,1,0,0,0,0,0,0,0,0,0
+Sàqib Màhmood,England,24,Batsman,Right-arm fast-medium,2,7.00,100.00,7,7,4,0,0,1,5,63.33,108,10.55,3,1/20,36.0,1,0
+Dàwid Màlàn,England,33,Batsman,Legbreak,24,50.15,144.31,1003,695,103,1,35,108,1,27.00,12,13.50,1,1/27,12.0,9,0
+Eoin Morgàn,England,34,Batsman,Right-arm medium,97,29.62,138.46,2311,1669,91,0,113,176,0,0,0,0,0,0,0,41,0
+Màtt Pàrkinson,England,24,Batsman,Legbreak,0,0,0,0,0,0,0,0,0,2,12.20,36,10.16,5,4/47,7.2,0,0
+Liàm Plunkett,England,35,Batsman,Right-arm fast,11,6.00,123.52,42,34,18,0,1,3,22,25.08,476,7.90,25,3/21,19.0,7,0
+Àdil Rashid,England,33,Batsman,Legbreak,20,7.00,81.15,56,69,9,0,0,4,54,26.61,1164,7.54,55,3/11,21.1,13,0
+Joè Root,England,30,Batsman,Right-arm offbreak,30,35.72,126.30,893,707,90,0,16,92,9,23.16,84,9.92,6,2/9,14.0,18,0
+Jàson Roy,England,30,Batsman,Wicketkeeper,43,24.04,142.22,1034,727,78,0,48,104,0,0,0,0,0,0,0,6,0
+Bèn Stokès,England,29,Batsman,Right-arm fast-medium,28,20.09,136.84,442,323,47,0,20,34,28,37.73,490,8.77,19,3/26,25.7,15,0
+Jàmes Vince,England,30,Batsman,Right-arm medium,12,28.33,123.63,340,275,59,0,9,34,0,0,0,0,0,0,0,5,0
+Dàvid Willey,England,31,Bowler,Left-arm fast-medium,19,13.83,131.74,166,126,29,0,10,8,28,22.38,557,8.19,34,4/7,16.3,12,0
+Màrk Wood,England,31,Batsman,Right-arm fast,2,0,83.33,10,12,5,0,0,1,15,21.26,333,8.81,23,3/9,14.4,0,0
+Sean Àbbott,Australia,29,Batsman,Right-arm fast-medium,2,17.00,106.25,17,16,12,0,1,1,7,37.50,108,8.33,4,2/14,27.0,4,0
+Àshton Àgar,Australia,27,Batsman,Slow left-arm orthodox,17,13.53,112.82,176,156,29,0,5,13,32,19.55,648,6.87,38,6/30,17.0,20,0
+Jàson Behrendorff,Australia,30,Batsman,Left-arm fast-medium,0,0,0,0,0,0,0,0,0,6,16.71,96,7.31,7,4/21,13.7,4,0
+Àlex Carey,Australia,29,Wicketkeeper,Wicketkeeper,18,12.57,116.55,176,151,37,0,6,13,0,0,0,0,0,0,0,14,9
+Nàthàn Coulter-Nile,Australia,33,Bowler,Right-arm fast,15,13.63,125.00,150,120,34,0,10,10,27,23.58,582,8.26,34,4/31,17.1,13,0
+Pàt Cummins,Australia,27,Batsman,Right-arm fast,13,6.85,114.28,48,42,13,0,2,3,30,20.62,660,6.93,37,3/15,17.8,9,0
+Àaron Finch,Australia,34,Batsman,Slow left-arm orthodox,71,38.45,152.14,2346,1542,172,2,104,235,2,0,12,13.50,0,0,0,32,0
+Peter Hàndscomb,Australia,29,Batsman,Wicketkeeper,2,33.00,100.00,33,33,20,0,0,1,0,0,0,0,0,0,0,0,0
+Josh Hàzlewood,Australia,30,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,9,36.77,216,9.19,9,4/30,24.0,2,0
+Moisès Hènriquès,Australia,34,Batsman,Right-arm fast-medium,11,31.42,135.80,220,162,62,0,9,10,9,27.00,132,8.59,7,3/22,18.8,3,0
+Chrìs Lynn,Australia,30,Batsman,Slow left-arm orthodox,16,19.40,131.67,291,221,44,0,14,28,0,0,0,0,0,0,0,3,0
+Bèn McDèrmott,Australia,26,Wicketkeeper,Right-arm medium,10,14.00,93.33,98,105,32,0,2,6,0,0,0,0,0,0,0,8,0
+Mitchell Màrsh,Australia,29,Batsman,Right-arm medium,20,21.66,116.07,325,280,45,0,15,17,10,22.71,120,7.95,7,2/6,17.1,7,0
+Glenn Màxwell,Australia,32,All-rounder,Right-arm offbreak,65,31.78,158.92,1780,1120,145,3,93,147,47,26.16,648,7.50,31,3/10,20.9,35,0
+Rilèy Mèrèdith,Australia,24,Batsman,Right-arm fast,0,0,0,0,0,0,0,0,0,3,20.75,66,7.54,4,2/24,16.5,0,0
+Josh Philippè,Australia,23,Wicketkeeper,Wicketkeeper,5,21.00,120.68,105,87,45,0,4,6,0,0,0,0,0,0,0,0,0
+Jhye Richàrdson,Australia,24,Batsman,Right-arm fast,7,12.00,116.12,36,31,11,0,1,3,14,32.76,300,8.52,13,2/31,23.0,9,0
+Kàne Richàrdson,Australia,30,Batsman,Right-arm fast-medium,5,5.33,106.66,16,15,9,0,0,0,26,24.31,534,7.92,29,3/18,18.4,12,0
+Dàniel Sàms,Australia,28,Batsman,Left-arm fast-medium,4,27.00,234.78,54,23,41,0,4,4,4,39.00,82,11.41,4,2/40,20.5,2,0
+D'Àrcy Short,Australia,30,Batsman,Left-arm wrist-spin,23,30.57,118.88,642,540,76,0,15,71,9,50.33,114,7.94,3,1/13,38.0,8,0
+Stèvèn Smith,Australia,31,Batsman,Legbreak googly,37,27.37,129.52,794,613,90,0,21,66,17,22.17,291,7.77,17,3/20,17.1,29,0
+Billy Stànlàke,Australia,26,Batsman,Right-arm fast,2,9.00,75.00,9,12,7,0,1,0,19,20.14,420,7.77,27,4/8,15.5,0,0
+Mitchell Stàrc,Australia,31,Batsman,Left-arm fast,10,4.80,92.30,24,26,7,0,1,0,35,19.38,786,6.95,47,3/11,16.7,11,0
+Màrcus Stoinis,Australia,31,Batsman,Right-arm medium,23,25.06,133.80,376,281,78,0,13,34,18,35.90,254,8.48,10,2/27,25.4,13,0
+Mitchèll Swèpson,Australia,27,Batsman,Legbreak,2,0,166.66,15,9,12,0,1,1,4,15.14,84,7.57,7,3/23,12.0,4,0
+Àshton Turner,Australia,28,Batsman,Right-arm offbreak,7,14.25,100.00,57,57,22,0,2,1,3,14.00,36,7.00,3,2/12,12.0,5,0
+Àndrew Tye,Australia,34,Batsman,Right-arm medium-fast,11,10.16,110.90,61,55,20,0,3,4,27,22.89,599,8.94,39,4/23,15.3,9,0
+Màtthew Wàde,Australia,33,Wicketkeeper,Right-arm medium,29,21.91,126.74,526,415,80,0,19,39,0,0,0,0,0,0,0,19,2
+Dàvid Wàrner,Australia,34,Batsman,Legbreak,81,31.45,139.72,2265,1621,100,1,89,218,0,0,0,0,0,0,0,44,0
+Àdam Zampa,Australia,28,Batsman,Legbreak googly,7,18.00,105.88,36,34,13,0,0,4,40,22.67,845,6.92,43,3/14,19.6,7,0
+Tembà Bàvumà,South Africa,30,Batsman,Right-arm medium,8,35.57,133.15,249,187,49,0,7,20,0,0,0,0,0,0,0,6,0
+Gihàhn Cloete,South Africa,28,Wicketkeeper,Right-arm offbreak,2,7.50,100.00,15,15,13,0,0,2,0,0,0,0,0,0,0,0,0
+Junior Dàlà,South Africa,31,Batsman,Right-arm medium,4,19.00,67.85,19,28,12,0,0,1,10,23.61,192,9.59,13,3/35,14.7,3,0
+Quinton dè Kock,South Africa,28,Wicketkeeper,Wicketkeeper,47,31.02,136.58,1303,954,79,0,53,135,0,0,0,0,0,0,0,41,11
+Jeàn-Pàul Duminy,South Africa,36,All-rounder,Right-arm offbreak,75,38.68,126.24,1934,1532,96,0,71,138,41,28.52,463,7.76,21,3/18,22.0,35,0
+Fàf du Plessis,South Africa,36,Batsman,Legbreak,50,35.53,134.38,1528,1137,119,1,50,140,2,0,8,2.25,0,0,0,24,0
+Bjorn Fortuìn,South Africa,26,Batsman,Slow left-arm orthodox,4,13.50,122.72,27,22,17,0,0,4,6,27.00,102,7.94,5,2/19,20.4,1,0
+Beuràn Hendricks,South Africa,30,Batsman,Left-arm fast-medium,4,6.00,81.81,18,22,12,0,1,0,14,22.55,289,9.36,20,4/14,14.4,3,0
+Reezà Hendricks,South Africa,31,Batsman,Right-arm offbreak,28,26.21,119.73,734,613,74,0,11,87,0,0,0,0,0,0,0,11,0
+Imràn Tàhir,South Africa,41,Batsman,Legbreak googly,4,19.00,105.55,19,18,9,0,1,1,38,15.04,845,6.73,63,5/23,13.4,7,0
+Heinrich Klààsen,South Africa,29,Wicketkeeper,Right-arm offbreak,16,23.07,150.00,300,200,69,0,16,20,1,0,6,14.00,0,0,0,11,1
+Gèorgè Lindè,South Africa,29,Batsman,Slow left-arm orthodox,2,20.50,157.69,41,26,29,0,2,3,3,36.50,72,6.08,2,2/20,36.0,1,0
+Jànnemàn Màlàn,South Africa,24,Batsman,Legbreak,5,22.00,129.41,110,85,44,0,4,15,0,0,0,0,0,0,0,2,0
+Àiden Markram,South Africa,26,Batsman,Right-arm offbreak,2,9.00,105.88,18,17,15,0,1,1,0,0,0,0,0,0,0,1,0
+Dàvid Miller,South Africa,31,Batsman,Right-arm offbreak,71,31.12,139.65,1525,1092,101,1,69,103,0,0,0,0,0,0,0,62,1
+Chrìs Morrìs,South Africa,33,Bowler,Right-arm fast-medium,13,14.77,130.39,133,102,55,0,5,12,23,20.50,498,8.39,34,4/27,14.6,6,0
+Lungì Ngìdì,South Africa,24,Batsman,Right-arm fast-medium,4,2.33,46.66,7,15,4,0,0,0,16,17.03,320,8.94,28,4/19,11.4,2,0
+Ànrich Nortje,South Africa,27,Batsman,Right-arm fast,1,2.00,33.33,2,6,2,0,0,0,5,51.66,114,8.15,3,1/24,38.0,0,0
+Àndile Phehlukwayo,South Africa,25,Bowler,Right-arm medium-fast,17,8.83,109.27,106,97,27,0,4,11,29,21.02,568,8.44,38,4/24,14.9,7,0
+Dwàine Pretorius,South Africa,31,Bowler,Right-arm medium-fast,8,31.80,165.62,159,96,77,0,8,12,13,23.61,228,8.07,13,5/17,17.5,0,0
+Sinethembà Qeshile,South Africa,22,Batsman,Wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Kàgiso Ràbàdà,South Africa,25,Batsman,Right-arm fast,7,9.25,94.87,37,39,22,0,2,3,26,26.41,577,8.51,31,3/30,18.6,5,0
+Tàbràiz Shàmsi,South Africa,31,Batsman,Left-arm wrist-spin,5,4.00,30.76,4,13,2,0,0,0,28,28.18,618,7.38,27,4/25,22.8,8,0
+Lutho Sipàmlà,South Africa,22,Batsman,Right-arm fast-medium,2,8.00,72.72,8,11,8,0,0,1,9,53.00,164,9.69,5,2/22,32.8,3,0
+JJ Smùts,South Africa,32,All-rounder,Slow left-arm orthodox,13,13.38,105.45,174,165,45,0,6,18,10,178.00,136,7.85,1,1/19,136.0,1,0
+Jàcques Snymàn,South Africa,26,All-rounder,Right-arm offbreak,1,2.00,33.33,2,6,2,0,0,0,1,0,6,12.00,0,0,0,1,0
+Dàle Steyn,South Africa,37,Batsman,Right-arm fast,12,3.50,80.76,21,26,5,0,0,2,47,18.35,1015,6.94,64,4/9,15.8,12,0
+Glenton Stuurmàn,South Africa,28,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,1,0,12,14.00,0,0,0,0,0
+Pite vàn Biljon,South Africa,34,Wicketkeeper,Right-arm medium,6,22.25,125.35,89,71,42,0,2,10,0,0,0,0,0,0,0,1,0
+Ràssie vàn der Dussen,South Africa,32,Batsman,Legbreak,17,38.71,136.52,542,397,74,0,26,31,0,0,0,0,0,0,0,4,0
+Fabian Àllen,West Indies,25,Bowler,Slow left-arm orthodox,15,13.18,120.83,145,120,30,0,10,9,16,23.78,282,7.08,14,2/19,20.1,6,0
+Càrlos Bràthwàite,West Indies,32,Batsman,Right-arm fast-medium,27,14.76,113.13,310,274,37,0,22,13,39,32.67,709,8.57,31,3/20,22.8,19,0
+Dwàyne Bràvo,West Indies,37,Batsman,Right-arm medium,63,23.14,114.55,1157,1010,66,0,50,67,64,27.12,1223,8.25,62,4/28,19.7,37,0
+John Càmpbell,West Indies,27,Batsman,Right-arm offbreak,2,5.50,68.75,11,16,11,0,0,2,1,0,6,1.00,0,0,0,1,0
+Shèldon Cottrèll,West Indies,31,Batsman,Left-arm fast-medium,9,4.25,60.71,17,28,4,0,0,2,29,21.81,613,7.89,37,4/28,16.5,13,0
+Fidel Edwàrds,West Indies,39,Batsman,Right-arm fast,5,5.50,100.00,11,11,7,0,0,1,22,32.05,396,8.25,17,3/23,23.2,5,0
+Àndre Fletcher,West Indies,33,Batsman,"Right-arm medium-fast, Legbreak",43,21.65,111.51,823,738,84,0,42,58,0,0,0,0,0,0,0,21,1
+Chris Gàyle,West Indies,41,Batsman,Right-arm offbreak,57,31.24,140.81,1656,1176,117,2,106,141,23,22.17,319,7.09,17,2/15,18.7,15,0
+Shimron Hètmyèr,West Indies,24,Batsman,Wicketkeeper,23,18.95,116.97,379,324,56,0,20,24,0,0,0,0,0,0,0,10,0
+Jàson Holder,West Indies,29,Bowler,Right-arm medium-fast,14,16.30,119.85,163,136,29,0,8,11,20,37.87,445,8.17,16,2/23,27.8,10,0
+Shài Hope,West Indies,27,Wicketkeeper,Wicketkeeper,11,21.63,136.00,238,175,55,0,10,24,0,0,0,0,0,0,0,6,0
+Bràndon King,West Indies,26,Batsman,Wicketkeeper,10,15.30,134.21,153,114,43,0,5,20,0,0,0,0,0,0,0,4,0
+Èvin Lewis,West Indies,29,Batsman,Wicketkeeper,34,30.90,155.74,989,635,125,2,77,70,0,0,0,0,0,0,0,11,0
+Obèd McCoy,West Indies,24,Batsman,Left-arm fast-medium,3,17.00,200.00,34,17,23,0,3,3,4,26.40,90,8.80,5,2/25,18.0,0,0
+Kyle Màyers,West Indies,28,All-rounder,Right-arm medium,2,25.00,138.88,25,18,20,0,2,1,1,0,6,10.00,0,0,0,0,0
+Sunil Nàrine,West Indies,32,Bowler,Right-arm offbreak,23,10.33,112.31,155,138,30,0,5,13,49,21.25,1102,6.01,52,4/12,21.1,7,0
+Keemo Pàul,West Indies,23,Batsman,Right-arm fast-medium,14,21.00,117.48,168,143,29,0,11,8,20,26.79,432,8.93,24,5/15,18.0,2,0
+Khàry Pierre,West Indies,29,Batsman,Slow left-arm orthodox,5,8.50,73.91,17,23,9,0,0,2,10,38.42,168,9.60,7,2/44,24.0,2,0
+Kieron Pollàrd,West Indies,33,Batsman,Right-arm medium,65,24.55,137.31,1277,930,75,0,85,77,51,26.45,692,8.48,37,4/25,18.7,37,0
+Nicholàs Pooràn,West Indies,25,Wicketkeeper,Wicketkeeper,24,19.60,121.36,392,323,58,0,21,29,0,0,0,0,0,0,0,16,1
+Rovmàn Powell,West Indies,27,Batsman,Right-arm medium-fast,22,18.10,120.70,344,285,54,0,14,29,6,28.50,78,8.76,4,2/31,19.5,12,0
+Denesh Ràmdin,West Indies,36,Wicketkeeper,Wicketkeeper,50,18.70,115.42,636,551,55,0,19,51,0,0,0,0,0,0,0,43,20
+Àndre Russell,West Indies,32,Batsman,Right-arm fast,41,20.00,151.26,540,357,47,0,42,32,42,37.46,643,9.08,26,2/10,24.7,12,0
+Sherfàne Rutherford,West Indies,22,Batsman,Right-arm fast-medium,4,10.75,119.44,43,36,26,0,3,1,2,49.00,36,8.16,1,1/21,36.0,1,0
+Romàrio Shepherd,West Indies,26,Batsman,Right-arm medium-fast,0,0,0,0,0,0,0,0,0,2,37.50,48,9.37,2,1/37,24.0,1,0
+Lèndl Simmons,West Indies,36,Batsman,Right-arm medium-fast,56,26.85,123.96,1262,1018,91,0,55,116,3,9.16,36,9.16,6,4/19,6.0,26,0
+Kevin Sinclàir,West Indies,21,Batsman,Right-arm offbreak,1,3.00,37.50,3,8,3,0,0,0,3,38.50,54,8.55,2,1/19,27.0,2,0
+Oshàne Thomàs,West Indies,24,Batsman,Right-arm fast,5,4.00,72.72,8,11,8,0,0,2,14,24.72,306,8.72,18,5/28,17.0,1,0
+Hàyden Wàlsh,West Indies,28,Batsman,Legbreak googly,10,16.00,98.46,128,130,28,0,3,8,14,29.09,239,8.03,11,2/21,21.7,3,0
+Kesrick Williàms,West Indies,31,Batsman,Right-arm fast-medium,7,6.33,111.76,19,17,13,0,1,1,26,19.63,551,8.76,41,4/28,13.4,8,0
+Corey Ànderson,New Zealand,30,All-rounder,Left-arm medium-fast,24,24.25,138.17,485,351,94,0,26,30,21,35.35,360,8.25,14,2/17,25.7,19,0
+Todd Àstle,New Zealand,34,Batsman,Legbreak,2,2.00,40.00,4,10,3,0,0,0,3,23.00,48,8.62,3,3/28,16.0,3,0
+Hàmish Bennett,New Zealand,34,Batsman,Right-arm medium-fast,1,0,50.00,1,2,1,0,0,0,7,38.50,131,10.58,6,3/54,21.8,0,0
+Trènt Boult,New Zealand,31,Batsman,Left-arm fast-medium,10,5.60,73.68,28,38,8,0,0,2,34,23.34,755,8.53,46,4/34,16.4,13,0
+Doug Bràcewell,New Zealand,30,Batsman,Right-arm fast-medium,10,24.20,145.78,121,83,44,0,9,6,16,21.85,286,9.16,20,3/25,14.3,7,0
+Tom Brucè,New Zealand,29,Batsman,Right-arm offbreak,17,18.60,122.36,279,228,59,0,7,24,0,0,0,0,0,0,0,15,0
+Màrk Chàpmàn,New Zealand,26,Batsman,Slow left-arm orthodox,26,22.95,117.85,528,448,63,0,15,43,5,21.50,72,7.16,4,1/9,18.0,9,0
+Devon Conwày,New Zealand,29,Batsman,Right-arm medium,9,52.28,145.23,366,252,99,0,11,36,0,0,0,0,0,0,0,5,0
+Colin de Gràndhomme,New Zealand,34,Batsman,Right-arm medium-fast,34,18.03,143.23,487,340,59,0,29,27,19,40.45,299,8.92,11,2/22,27.1,18,0
+Jàcob Duffy,New Zealand,26,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,1,8.25,24,8.25,4,4/33,6.0,0,0
+Lockiè Fèrguson,New Zealand,29,Batsman,Right-arm fast,1,1.00,33.33,1,3,1,0,0,0,11,13.23,240,6.95,21,5/21,11.4,4,0
+Màrtin Guptill,New Zealand,34,Batsman,Right-arm offbreak,95,32.26,136.22,2839,2084,105,2,139,250,1,0,6,11.00,0,0,0,56,0
+Kyle Jàmieson,New Zealand,26,Batsman,Right-arm fast-medium,4,20.50,151.85,41,27,30,0,0,7,8,70.25,172,9.80,4,2/15,43.0,3,0
+Scott Kuggèlèijn,New Zealand,29,Bowler,Right-arm fast-medium,8,19.75,213.51,79,37,35,0,7,5,15,33.38,287,9.07,13,3/27,22.0,5,0
+Àdam Milne,New Zealand,28,Batsman,Right-arm fast,8,0,91.30,21,23,10,0,0,1,21,21.64,437,7.42,25,4/37,17.4,5,0
+Dàryl Mitchell,New Zealand,29,Batsman,Right-arm medium,11,12.87,119.76,103,86,30,0,4,6,5,17.80,55,9.70,5,2/27,11.0,8,0
+Colìn Munro,New Zealand,34,Batsman,Right-arm medium-fast,62,31.34,156.44,1724,1102,109,3,107,132,12,46.50,118,9.45,4,1/12,29.5,19,0
+Jàmes Neeshàm,New Zealand,30,All-rounder,Right-arm medium-fast,22,21.60,157.28,324,206,48,0,19,28,23,27.38,313,9.45,18,3/16,17.3,9,0
+Hènry Nicholls,New Zealand,29,Batsman,Right-arm offbreak,4,4.75,67.85,19,28,7,0,0,2,0,0,0,0,0,0,0,0,0
+Àjaz Patel,New Zealand,32,Batsman,Slow left-arm orthodox,0,0,0,0,0,0,0,0,0,2,45.00,36,7.50,1,1/27,36.0,0,0
+Glènn Phillips,New Zealand,24,Wicketkeeper,Right-arm offbreak,19,24.11,140.89,410,291,108,1,24,31,1,0,12,10.50,0,0,0,15,2
+Seth Rànce,New Zealand,33,Batsman,Right-arm medium,3,3.33,47.61,10,21,8,0,0,0,7,24.50,162,9.07,10,3/26,16.2,0,0
+Hàmish Rutherford,New Zealand,31,Batsman,Slow left-arm orthodox,7,21.57,143.80,151,105,62,0,9,12,0,0,0,0,0,0,0,1,0
+Mitchell Sàntner,New Zealand,29,Bowler,Slow left-arm orthodox,37,15.22,126.89,335,264,37,0,11,24,51,21.45,1046,7.38,60,4/11,17.4,24,0
+Tim Sèifèrt,New Zealand,26,Wicketkeeper,Wicketkeeper,32,24.82,133.14,695,522,84,0,37,57,0,0,0,0,0,0,0,20,6
+Ìsh Sodhi,New Zealand,28,Batsman,Legbreak,10,12.66,108.57,76,70,16,0,5,4,53,22.08,1137,8.04,69,4/28,16.4,14,0
+Tim Southèè,New Zealand,32,Batsman,Right-arm medium-fast,35,11.31,143.10,249,174,39,0,16,16,78,26.04,1722,8.43,93,5/18,18.5,41,0
+Ross Tàylor,New Zealand,37,Batsman,Right-arm offbreak,94,26.15,122.37,1909,1560,63,0,71,121,0,0,0,0,0,0,0,46,0
+Blàir Tickner,New Zealand,27,Batsman,Right-arm medium-fast,1,0,83.33,5,6,5,0,0,0,6,42.40,132,9.63,5,2/25,26.4,1,0
+Kàne Williàmson,New Zealand,30,Batsman,Right-arm offbreak,65,31.66,125.08,1805,1443,95,0,41,182,12,27.33,118,8.33,6,2/16,19.6,32,0
+Khaleel Àhmed,India,23,Batsman,Left-arm medium,1,0,100.00,1,1,1,0,0,0,14,35.30,312,8.82,13,2/27,24.0,3,0
+Jàsprit Bumràh,India,27,Batsman,Right-arm fast,6,4.00,61.53,8,13,7,0,0,1,49,20.25,1075,6.66,59,3/11,18.2,7,0
+Yuzvendrà Chàhàl,India,30,Batsman,Legbreak googly,4,2.50,45.45,5,11,3,0,0,0,48,25.40,1125,8.40,62,6/25,18.1,9,0
+Deepàk Chàhàr,India,28,Batsman,Right-arm medium,4,0,100.00,1,1,1,0,0,0,13,20.11,287,7.56,18,6/7,15.9,0,0
+Ràhul Chàhàr,India,21,Batsman,Legbreak googly,0,0,0,0,0,0,0,0,0,3,31.66,60,9.50,3,2/35,20.0,0,0
+Shikhàr Dhàwàn,India,35,Batsman,Right-arm offbreak,63,27.88,127.41,1673,1313,92,0,49,182,0,0,0,0,0,0,0,19,0
+MS Dhonì,India,39,Wicketkeeper,Right-arm medium,85,37.60,126.13,1617,1282,56,0,52,116,0,0,0,0,0,0,0,57,34
+Shivàm Dube,India,27,Batsman,Right-arm medium,9,17.50,136.36,105,77,54,0,6,7,11,43.20,129,10.04,5,3/30,25.8,8,0
+Ishàn Kishàn,India,22,Wicketkeeper,Wicketkeeper,2,30.00,146.34,60,41,56,0,4,5,0,0,0,0,0,0,0,0,0
+Shreyàs Iyer,India,26,Batsman,Legbreak googly,26,28.94,133.81,550,411,67,0,22,44,0,0,0,0,0,0,0,8,0
+Ràvindrà Jàdejà,India,32,Batsman,Slow left-arm orthodox,24,15.50,112.43,217,193,44,0,6,12,49,29.53,973,7.10,39,3/48,24.9,21,0
+Dinesh Kàrthik,India,35,Wicketkeeper,Right-arm offbreak,26,33.25,143.52,399,278,48,0,15,42,0,0,0,0,0,0,0,14,5
+Siddàrth Kàul,India,30,Batsman,Right-arm medium,0,0,0,0,0,0,0,0,0,3,21.00,58,8.68,4,2/35,14.5,0,0
+Viràt Kohli,India,32,Batsman,Right-arm medium,84,52.65,139.04,3159,2272,94,0,90,285,12,49.50,146,8.13,4,1/13,36.5,42,0
+Kuldeep Yàdàv,India,26,Batsman,Left-arm wrist-spin,2,20.00,100.00,20,20,16,0,0,2,20,13.76,453,7.11,39,5/24,11.6,8,0
+Bhuvneshwàr Kumàr,India,31,Batsman,Right-arm medium,10,5.75,79.31,23,29,9,0,0,0,48,26.73,1034,6.98,45,5/24,22.9,7,0
+Mohàmmed Shàmi,India,30,Batsman,Right-arm fast,0,0,0,0,0,0,0,0,0,12,35.66,262,9.80,12,3/38,21.8,0,0
+T Nàtàràjàn,India,29,Batsman,Left-arm medium,0,0,0,0,0,0,0,0,0,4,17.42,96,7.62,7,3/30,13.7,0,0
+Mànish Pàndey,India,31,Batsman,Right-arm medium,33,44.31,126.15,709,562,79,0,19,49,0,0,0,0,0,0,0,9,0
+Hàrdik Pàndyà,India,27,Batsman,Right-arm medium-fast,32,19.75,147.66,474,321,42,0,30,27,44,26.68,803,8.17,41,4/38,19.5,30,0
+Krunàl Pàndyà,India,29,Batsman,Slow left-arm orthodox,9,24.20,131.52,121,92,26,0,6,8,18,38.42,398,8.11,14,4/36,28.4,7,0
+Rishàbh Pànt,India,23,Wicketkeeper,Wicketkeeper,29,21.33,123.07,512,416,65,0,21,39,0,0,0,0,0,0,0,9,5
+Àxar Patel,India,27,Bowler,Slow left-arm orthodox,8,18.75,131.57,75,57,20,0,3,4,12,32.11,252,6.88,9,3/17,28.0,5,0
+KL Ràhul,India,28,Batsman,Wicketkeeper,45,39.92,142.19,1557,1095,110,2,63,138,0,0,0,0,0,0,0,18,1
+Nàvdeep Sàini,India,28,Batsman,Right-arm fast,2,0,110.00,11,10,11,0,0,2,9,18.07,197,7.15,13,3/17,15.1,3,0
+Sànju Sàmson,India,26,Wicketkeeper,Wicketkeeper,7,11.85,118.57,83,70,23,0,4,3,0,0,0,0,0,0,0,3,1
+Rohit Shàrmà,India,33,Batsman,Right-arm offbreak,103,32.54,138.96,2864,2061,118,4,133,252,9,113.00,68,9.97,1,1/22,68.0,41,0
+Shàrdul Thàkur,India,29,Batsman,Right-arm medium,5,34.50,197.14,69,35,22,0,4,5,21,22.29,455,9.11,31,4/27,14.6,4,0
+Wàshington Sundàr,India,21,Bowler,Right-arm offbreak,11,6.71,146.87,47,32,14,0,3,4,30,30.00,621,7.24,25,3/22,24.8,10,0
+Suryàkumàr Yàdàv,India,30,Batsman,"Right-arm medium, Right-arm offbreak",2,44.50,185.41,89,48,57,0,5,9,0,0,0,0,0,0,0,5,0
+Àbdullah Shafique,Pakistan,21,Batsman,Right-arm offbreak,3,20.50,110.81,41,37,41,0,1,4,0,0,0,0,0,0,0,0,0
+Àhsan Àli,Pakistan,27,Batsman,Legbreak,2,18.00,92.30,36,39,36,0,0,4,0,0,0,0,0,0,0,0,0
+Àsif Àli,Pakistan,29,Batsman,Right-arm medium-fast,25,17.78,127.06,338,266,41,0,19,15,0,0,0,0,0,0,0,10,0
+Babar Àzam,Pakistan,26,Batsman,Right-arm offbreak,45,48.05,130.27,1730,1328,97,0,24,179,0,0,0,0,0,0,0,19,0
+Faheem Àshraf,Pakistan,27,Bowler,Right-arm medium,24,12.58,132.91,214,161,31,0,14,11,34,25.36,605,7.54,30,3/5,20.1,9,0
+Fàkhàr Zàmàn,Pakistan,30,Batsman,Slow left-arm orthodox,38,22.05,134.08,838,625,91,0,25,94,1,0,6,12.00,0,0,0,19,0
+Haider Àli,Pakistan,20,Batsman,Wicketkeeper,10,24.66,137.03,222,162,66,0,12,17,0,0,0,0,0,0,0,3,0
+Hàris Ràuf,Pakistan,27,Batsman,Right-arm fast,1,0,0.00,0,1,0,0,0,0,13,24.55,294,9.02,18,3/29,16.3,4,0
+Hàris Sohàil,Pakistan,32,Batsman,Slow left-arm orthodox,13,19.09,102.94,210,204,52,0,3,16,0,0,0,0,0,0,0,3,0
+Hasan Àli,Pakistan,26,Batsman,Right-arm medium-fast,11,16.20,192.85,81,42,23,0,7,4,31,24.48,645,8.42,37,3/23,17.4,7,0
+Hussàin Tàlàt,Pakistan,25,Batsman,Right-arm medium-fast,18,24.62,118.31,394,333,63,0,5,37,6,13.50,36,9.00,4,2/12,9.0,5,0
+Iftikhar Àhmed,Pakistan,30,Batsman,Right-arm offbreak,11,42.40,130.86,212,162,62,0,5,19,5,71.00,44,9.68,1,1/7,44.0,4,0
+Imàd Wàsim,Pakistan,32,Batsman,Slow left-arm orthodox,33,13.72,145.89,302,207,47,0,7,33,48,22.76,1032,6.22,47,5/14,21.9,19,0
+Imàm-ul-Hàq,Pakistan,25,Batsman,Wicketkeeper,2,10.50,84.00,21,25,14,0,0,2,0,0,0,0,0,0,0,0,0
+Khushdil Shàh,Pakistan,26,Batsman,Slow left-arm orthodox,9,21.66,109.24,130,119,36,0,4,13,1,0,6,6.00,0,0,0,2,0
+Mohammad Àmir,Pakistan,28,Batsman,Left-arm fast,14,7.37,81.94,59,72,21,0,3,2,50,21.40,1079,7.02,59,4/13,18.2,4,0
+Mohàmmàd Hàfeez,Pakistan,40,Batsman,Right-arm offbreak,94,27.98,121.30,2323,1915,99,0,71,232,68,22.83,1123,6.58,54,4/10,20.7,26,0
+Mohàmmàd Hàsnàin,Pakistan,20,Batsman,Right-arm fast,3,5.00,41.66,5,12,4,0,0,1,10,42.42,240,7.42,7,3/37,34.2,0,0
+Mohàmmàd Irfàn,Pakistan,38,Batsman,Left-arm fast,4,0,50.00,4,8,2,0,0,0,22,35.12,453,7.44,16,2/18,28.3,1,0
+Mohàmmàd Nàwàz,Pakistan,27,Batsman,Slow left-arm orthodox,5,11.33,94.44,34,36,18,0,1,3,19,26.73,360,6.68,15,2/11,24.0,7,0
+Mohàmmàd Rizwàn,Pakistan,28,Wicketkeeper,Wicketkeeper,21,31.87,120.56,510,423,104,1,15,48,0,0,0,0,0,0,0,10,5
+Muhàmmàd Musà,Pakistan,20,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,2,0,47,7.91,0,0,0,0,0
+Sarfaraz Àhmed,Pakistan,33,Wicketkeeper,Right-arm offbreak,41,28.00,126.67,812,641,89,0,15,79,0,0,0,0,0,0,0,35,10
+Shàdàb Khàn,Pakistan,22,Batsman,Legbreak,19,14.07,124.48,183,147,42,0,9,11,44,22.62,987,7.28,53,4/14,18.6,15,0
+Shaheen Shah Àfridi,Pakistan,20,Batsman,Left-arm fast,2,0,142.85,10,7,10,0,1,0,21,25.25,469,7.75,24,3/20,19.5,1,0
+Shoàib Màlik,Pakistan,39,Batsman,Right-arm offbreak,106,31.13,124.20,2335,1880,75,0,61,192,48,23.53,558,7.08,28,2/7,19.9,50,0
+Usmàn Qàdir,Pakistan,27,Batsman,Legbreak,1,0,100.00,4,4,4,0,0,0,6,11.33,132,6.18,12,4/13,11.0,1,0
+Usmàn Shinwàri,Pakistan,27,Batsman,Left-arm medium-fast,3,0,66.66,2,3,2,0,0,0,16,32.61,306,8.31,13,3/31,23.5,1,0
+Wàhàb Riàz,Pakistan,35,Batsman,Left-arm fast,18,12.83,125.20,154,123,30,0,7,10,35,28.55,710,8.20,34,3/18,20.8,6,0
+Zàhid Màhmood,Pakistan,33,Batsman,Legbreak,0,0,0,0,0,0,0,0,0,1,13.33,24,10.00,3,3/40,8.0,0,0
+Àshen Bandara,Sri Lanka,22,Batsman,Legbreak,3,37.50,125.00,75,60,44,0,3,4,1,0,6,2.00,0,0,0,1,0
+Minod Bhànukà,Sri Lanka,25,Batsman,Wicketkeeper,1,0.00,0.00,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0
+Dushmànthà Chàmeerà,Sri Lanka,29,Batsman,Right-arm fast,11,6.60,78.57,33,42,12,0,0,3,22,32.60,469,8.34,20,3/30,23.4,6,0
+Dinesh Chàndimàl,Sri Lanka,31,Wicketkeeper,Right-arm offbreak,50,19.28,104.70,868,829,58,0,17,76,0,0,0,0,0,0,0,33,5
+Àkila Dananjaya,Sri Lanka,27,Batsman,"Right-arm offbreak, Legbreak",13,7.25,87.87,58,66,11,0,0,6,25,28.76,550,8.16,26,3/36,21.1,7,0
+Dhànànjàyà de Silvà,Sri Lanka,29,Batsman,Right-arm offbreak,15,22.06,109.96,331,301,62,0,5,28,9,25.60,108,7.11,5,2/22,21.6,4,0
+PWH de Silvà,Sri Lanka,23,Batsman,Legbreak,13,19.25,119.37,154,129,44,0,0,14,14,14.00,298,6.76,24,3/12,12.4,5,0
+Niroshàn Dickwellà,Sri Lanka,27,Wicketkeeper,Wicketkeeper,25,19.41,135.46,466,344,68,0,9,60,0,0,0,0,0,0,0,12,1
+Nuwàn Pràdeep,Sri Lanka,34,Batsman,Right-arm fast-medium,6,10.00,66.66,10,15,8,0,0,1,15,27.53,266,9.31,15,4/25,17.7,2,0
+Oshàdà Fernàndo,Sri Lanka,28,Batsman,Legbreak,5,27.25,125.28,109,87,78,0,3,11,0,0,0,0,0,0,0,0,0
+Àvishka Fernando,Sri Lanka,22,Batsman,Right-arm medium-fast,14,13.92,100.51,195,194,37,0,4,16,0,0,0,0,0,0,0,4,0
+Dànushkà Gunàthilàkà,Sri Lanka,30,Batsman,Right-arm offbreak,26,20.84,121.79,542,445,57,0,14,57,11,24.50,118,7.47,6,2/3,19.6,11,0
+Shehàn Jàyàsuriyà,Sri Lanka,29,All-rounder,Right-arm offbreak,16,15.06,108.55,241,222,40,0,8,20,11,71.00,137,9.32,3,1/11,45.6,4,0
+Làhiru Kumàrà,Sri Lanka,24,Batsman,Right-arm fast,3,5.00,166.66,5,3,4,0,0,1,6,33.50,135,8.93,6,2/24,22.5,0,0
+Suràngà Làkmàl,Sri Lanka,34,Batsman,Right-arm fast-medium,6,2.33,63.63,7,11,5,0,0,1,11,41.25,208,9.51,8,2/26,26.0,3,0
+Làhiru Màdushànkà,Sri Lanka,28,Batsman,Right-arm fast-medium,2,10.50,80.76,21,26,20,0,0,1,1,0,24,9.00,0,0,0,0,0
+Làsith Màlingà,Sri Lanka,37,Batsman,Right-arm fast,33,6.47,84.47,136,161,27,0,5,9,83,20.79,1799,7.42,107,5/6,16.8,21,0
+Àngelo Mathews,Sri Lanka,33,Batsman,Right-arm medium,63,25.51,117.74,1148,975,81,0,38,73,61,31.57,1029,6.99,38,3/16,27.0,24,0
+Kusàl Mendis,Sri Lanka,26,Wicketkeeper,Legbreak,26,18.61,131.52,484,368,79,0,21,41,0,0,0,0,0,0,0,6,0
+Pàthum Nissànkà,Sri Lanka,22,Batsman,Wicketkeeper,3,27.00,115.71,81,70,39,0,2,8,0,0,0,0,0,0,0,1,0
+Àngelo Perera,Sri Lanka,31,Batsman,Slow left-arm orthodox,5,11.80,90.76,59,65,16,0,1,5,1,0,6,17.00,0,0,0,1,0
+Kusàl Pererà,Sri Lanka,30,Wicketkeeper,Wicketkeeper,46,28.10,135.25,1293,956,84,0,47,123,0,0,0,0,0,0,0,13,5
+Thisàrà Pererà,Sri Lanka,31,Bowler,Right-arm medium-fast,74,23.15,151.63,1204,794,61,0,64,88,67,33.66,1102,9.34,51,3/24,21.6,30,0
+Bhànukà Ràjàpàksà,Sri Lanka,29,Batsman,Right-arm medium,6,28.00,130.84,140,107,77,0,9,8,0,0,0,0,0,0,0,0,0
+Kàsun Ràjithà,Sri Lanka,27,Batsman,Right-arm medium-fast,4,4.00,34.78,8,23,5,0,0,0,10,35.80,222,9.67,10,3/29,22.2,0,0
+Sàdeerà Sàmàràwickràmà,Sri Lanka,25,Wicketkeeper,Wicketkeeper,7,13.85,104.30,97,93,32,0,0,9,0,0,0,0,0,0,0,4,2
+Làkshàn Sàndàkàn,Sri Lanka,29,Batsman,Left-arm wrist-spin,6,6.66,74.07,20,27,10,0,0,2,19,23.00,436,7.27,23,4/23,18.9,6,0
+Dàsun Shànàkà,Sri Lanka,29,Batsman,Right-arm medium,39,15.58,111.03,483,435,54,0,26,32,16,19.81,175,7.47,11,3/16,15.9,8,0
+Isuru Udànà,Sri Lanka,33,Batsman,Left-arm medium-fast,21,19.16,144.65,230,159,84,0,13,15,27,31.91,529,8.68,24,3/11,22.0,4,0
+Jeffrey Vàndersày,Sri Lanka,31,Batsman,Legbreak,7,15.00,88.23,15,17,8,0,0,2,10,43.66,210,7.48,6,2/26,35.0,1,0
+Ryàn Burl,Zimbabwe,26,Batsman,Legbreak,19,26.85,114.98,376,327,57,0,17,19,19,26.84,258,8.11,13,3/24,19.8,12,0
+Regis Chàkàbvà,Zimbabwe,33,Wicketkeeper,Right-arm offbreak,12,14.45,118.65,159,134,48,0,7,12,0,0,0,0,0,0,0,4,0
+Briàn Chàri,Zimbabwe,29,Batsman,Right-arm offbreak,3,7.00,67.74,21,31,19,0,0,4,0,0,0,0,0,0,0,2,0
+Tendài Chàtàrà,Zimbabwe,30,Batsman,Right-arm fast-medium,3,5.00,83.33,15,18,8,0,0,1,22,23.69,468,7.89,26,3/20,18.0,4,0
+Chàmu Chibhàbhà,Zimbabwe,34,Batsman,Right-arm medium,35,19.05,109.52,667,609,67,0,13,78,22,32.50,323,8.45,14,3/18,23.0,9,0
+Elton Chigumburà,Zimbabwe,35,Batsman,Right-arm fast-medium,56,19.00,140.62,893,635,54,0,53,61,21,26.68,276,9.28,16,4/31,17.2,22,0
+Tendài Chisoro,Zimbabwe,33,Batsman,"Left-arm fast-medium, Slow left-arm orthodox",7,10.75,91.48,43,47,14,0,2,2,14,30.66,318,6.94,12,3/17,26.5,1,0
+Cràig Ervine,Zimbabwe,35,Batsman,Right-arm offbreak,24,21.82,100.00,502,502,68,0,13,48,0,0,0,0,0,0,0,12,0
+Faraz Àkram,Zimbabwe,27,Batsman,Right-arm medium,1,0,50.00,2,4,2,0,0,0,2,58.00,38,9.15,1,1/46,38.0,0,0
+Dàniel Jàkiel,Zimbabwe,30,Wicketkeeper,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,,Bowling career summary,,Bowling innings list,Player analysis menu/filter,T20I match list,Best innings bowling,0,0
+Tinàshe Kàmunhukàmwe,Zimbabwe,25,Batsman,Right-arm offbreak,5,16.60,115.27,83,72,44,0,1,10,0,0,0,0,0,0,0,1,0
+Wesley Màdhevere,Zimbabwe,20,Batsman,Right-arm offbreak,7,19.33,118.36,116,98,70,0,2,14,4,57.00,48,7.12,1,1/15,48.0,2,0
+Wellington Màsàkàdzà,Zimbabwe,27,Batsman,Slow left-arm orthodox,7,9.00,94.73,36,38,11,0,0,4,14,25.92,276,7.89,14,4/28,19.7,6,0
+Williàm Màshinge,Zimbabwe,24,Wicketkeeper,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,2,57.00,30,11.40,1,1/37,30.0,2,0
+Bràndon Màvutà,Zimbabwe,24,Batsman,Legbreak,5,25.50,159.37,51,32,28,0,3,3,5,68.00,102,8.00,2,1/19,51.0,2,0
+Pètèr Moor,Zimbabwe,30,Wicketkeeper,Right-arm offbreak,19,24.26,127.27,364,286,92,0,24,22,0,0,0,0,0,0,0,7,0
+Chrìs Mpofu,Zimbabwe,35,Batsman,Right-arm fast-medium,11,8.75,81.39,35,43,17,0,1,3,32,31.36,694,8.94,33,4/30,21.0,5,0
+Càrl Mumbà,Zimbabwe,25,Batsman,Right-arm fast-medium,2,26.00,152.94,26,17,25,0,1,3,2,0,30,10.00,0,0,0,0,0
+Tony Munyongà,Zimbabwe,22,Batsman,Right-arm offbreak,3,45.00,132.35,45,34,44,0,1,3,1,0,6,3.00,0,0,0,3,0
+Tàrisài Musàkàndà,Zimbabwe,26,Batsman,"Right-arm medium, Right-arm slow-medium",9,18.66,122.62,168,137,43,0,4,14,0,0,0,0,0,0,0,4,0
+Tinotendà Mutombodzi,Zimbabwe,30,Batsman,Legbreak googly,14,12.18,93.05,134,144,32,0,2,9,9,26.85,156,7.23,7,2/12,22.2,2,0
+Richmond Mutumbàmi,Zimbabwe,31,Wicketkeeper,Right-arm offbreak,24,17.55,117.78,351,298,54,0,17,22,0,0,0,0,0,0,0,20,4
+Blessing Muzàràbàni,Zimbabwe,24,Batsman,Right-arm fast-medium,5,3.00,50.00,6,12,5,0,0,1,12,21.84,275,9.05,19,3/21,14.4,3,0
+Richàrd Ngàràvà,Zimbabwe,23,Batsman,Left-arm fast-medium,1,0,0,0,0,0,0,0,0,6,27.75,139,9.58,8,2/35,17.3,0,0
+Milton Shumbà,Zimbabwe,20,Batsman,Slow left-arm orthodox,2,9.50,67.85,19,28,11,0,1,0,1,28.00,12,14.00,1,1/28,12.0,0,0
+Sikàndàr Ràzà,Zimbabwe,34,All-rounder,Right-arm offbreak,37,14.44,108.55,520,479,59,0,9,47,29,40.00,378,8.25,13,2/7,29.0,18,0
+Brendàn Tàylor,Zimbabwe,35,Wicketkeeper,Right-arm offbreak,43,24.56,119.44,909,761,75,0,24,91,2,17.00,30,3.40,1,1/16,30.0,19,2
+Donàld Tiripàno,Zimbabwe,33,Batsman,Right-arm fast-medium,11,15.25,114.01,122,107,28,0,6,7,15,35.66,291,8.82,12,3/20,24.2,3,0
+Chàrlton Tshumà,Zimbabwe,27,Batsman,Right-arm fast-medium,0,0,0,0,0,0,0,0,0,1,0,6,10.00,0,0,0,0,0
+Seàn Williàms,Zimbabwe,34,Batsman,Slow left-arm orthodox,45,23.17,128.92,927,719,66,0,27,88,43,30.81,810,7.30,32,3/15,25.3,17,0
+Àbu Hider,Bangladesh,25,Batsman,Left-arm fast-medium,5,58.00,134.88,58,43,22,0,4,5,12,55.00,216,9.16,6,2/40,36.0,2,0
+Àbu Jayed,Bangladesh,27,Batsman,Right-arm fast-medium,2,1.50,42.85,3,7,2,0,0,0,3,26.50,66,9.63,4,2/27,16.5,1,0
+Àbul Hasan,Bangladesh,28,Batsman,Right-arm medium-fast,2,7.00,127.27,14,11,9,0,0,2,5,37.00,84,10.57,4,2/33,21.0,0,0
+Àfif Hossain,Bangladesh,21,Batsman,Right-arm offbreak,9,12.55,121.50,113,93,52,0,2,11,9,20.16,90,8.06,6,2/9,15.0,3,0
+Àl-Àmin Hossain,Bangladesh,31,Batsman,Right-arm medium-fast,6,3.50,58.33,7,12,5,0,0,1,29,16.97,614,7.13,43,3/20,14.2,4,0
+Àminul Islam,Bangladesh,21,Batsman,Legbreak googly,4,22.00,122.22,22,18,9,0,0,4,7,17.60,138,7.65,10,3/34,13.8,1,0
+Àriful Haque,Bangladesh,28,Batsman,Right-arm medium-fast,8,14.75,96.72,59,61,18,0,0,4,1,13.00,6,13.00,1,1/13,6.0,5,0
+Hàsàn Màhmud,Bangladesh,21,Batsman,Right-arm medium,0,0,0,0,0,0,0,0,0,1,0,24,6.25,0,0,0,0,0
+Imrul Kàyes,Bangladesh,34,Batsman,Slow left-arm orthodox,13,9.15,88.80,119,134,36,0,3,14,0,0,0,0,0,0,0,4,0
+Liton Dàs,Bangladesh,26,Wicketkeeper,Wicketkeeper,29,22.71,135.03,636,471,61,0,25,60,0,0,0,0,0,0,0,18,0
+Màhedi Hàsàn,Bangladesh,26,Batsman,Right-arm offbreak,2,10.00,86.95,20,23,11,0,1,1,4,96.00,78,7.38,1,1/14,78.0,1,0
+Màhmudullàh,Bangladesh,35,Batsman,Right-arm offbreak,79,24.18,122.81,1475,1201,64,0,48,117,55,27.87,711,7.29,31,3/18,22.9,32,0
+Mehidy Hàsàn Miràz,Bangladesh,23,Batsman,Right-arm offbreak,11,10.44,117.50,94,80,19,0,4,7,13,82.50,216,9.16,4,2/31,54.0,7,0
+Mohàmmàd Mithun,Bangladesh,30,Batsman,Wicketkeeper,11,12.20,95.31,122,128,47,0,4,10,0,0,0,0,0,0,0,3,0
+Mohàmmàd Nàim,Bangladesh,21,Batsman,Wicketkeeper,6,36.50,119.67,219,183,81,0,5,25,0,0,0,0,0,0,0,4,0
+Mohàmmàd Sàifuddin,Bangladesh,24,Bowler,Right-arm medium-fast,9,18.00,113.68,108,95,39,0,3,9,15,31.07,300,8.70,14,4/33,21.4,3,0
+Mosàddek Hossàin,Bangladesh,25,Batsman,Right-arm offbreak,13,20.33,105.78,183,173,34,0,5,10,12,32.00,130,7.38,5,2/21,26.0,7,0
+Mushfiqur Ràhim,Bangladesh,33,Wicketkeeper,Wicketkeeper,77,20.03,120.03,1282,1068,72,0,33,110,0,0,0,0,0,0,0,33,29
+Mustàfizur Ràhmàn,Bangladesh,25,Batsman,Left-arm fast-medium,15,4.30,78.18,43,55,15,0,3,3,41,20.53,901,7.93,58,5/22,15.5,10,0
+Nàjmul Hossàin Shànto,Bangladesh,22,Batsman,Right-arm offbreak,2,8.00,94.11,16,17,11,0,0,1,0,0,0,0,0,0,0,2,0
+Nàzmul Islàm,Bangladesh,29,Batsman,Slow left-arm orthodox,4,18.00,105.88,18,17,7,0,0,2,12,33.12,231,6.88,8,3/28,28.8,2,0
+Rubel Hossàin,Bangladesh,31,Batsman,Right-arm fast,14,3.40,56.66,17,30,8,0,0,1,26,31.39,567,9.30,28,3/31,20.2,1,0
+Sàbbir Ràhmàn,Bangladesh,29,Batsman,Legbreak,43,24.89,120.81,946,783,80,0,28,89,8,11.66,67,6.26,6,3/11,11.1,25,0
+Shàfiul Islàm,Bangladesh,31,Batsman,Right-arm fast-medium,6,4.60,69.69,23,33,16,0,1,1,20,26.60,400,7.98,20,3/36,20.0,1,0
+Shakib Àl Hasan,Bangladesh,33,Batsman,Slow left-arm orthodox,76,23.74,123.77,1567,1266,84,0,33,163,75,20.58,1667,6.81,92,5/20,18.1,19,0
+Soumyà Sàrkàr,Bangladesh,28,Batsman,Right-arm medium-fast,50,18.82,125.35,885,706,62,0,35,86,14,45.16,156,10.42,6,2/29,26.0,27,0
+Tàijul Islàm,Bangladesh,29,Batsman,Slow left-arm orthodox,1,0,0.00,0,1,0,0,0,0,2,58.00,42,8.28,1,1/26,42.0,0,0
+Tàmim Iqbàl,Bangladesh,32,Batsman,Wicketkeeper,78,24.08,116.96,1758,1503,103,1,45,188,0,0,0,0,0,0,0,18,0
+Taskin Àhmed,Bangladesh,25,Batsman,Right-arm fast,6,9.66,93.54,29,31,15,0,1,3,17,36.50,335,7.84,12,2/32,27.9,1,0
+Zàkir Hàsàn,Bangladesh,23,Wicketkeeper,Wicketkeeper,1,10.00,111.11,10,9,10,0,0,1,0,0,0,0,0,0,0,0,0
+Mark Àdair,Ireland,24,Bowler,Right-arm fast-medium,15,14.36,124.40,158,127,38,0,7,8,18,16.11,389,6.70,27,4/40,14.4,3,0
+Àndy Balbirnie,Ireland,30,Batsman,Right-arm offbreak,39,25.54,129.80,945,728,83,0,13,111,0,0,0,0,0,0,0,16,0
+Peter Chàse,Ireland,27,Batsman,Right-arm medium-fast,5,7.00,53.84,7,13,4,0,0,1,12,27.73,251,9.94,15,4/35,16.7,5,0
+Dàvid Delàny,Ireland,23,Batsman,Right-arm fast-medium,2,3.50,116.66,7,6,7,0,0,0,8,27.75,171,7.78,8,2/12,21.3,0,0
+Gàreth Delàny,Ireland,23,All-rounder,Legbreak googly,21,24.22,150.34,436,290,89,0,20,38,20,24.57,378,7.41,19,2/21,19.8,8,0
+Gèorgè Dockrèll,Ireland,28,Batsman,Slow left-arm orthodox,37,13.40,121.26,268,221,34,0,7,15,72,21.36,1370,7.11,76,4/20,18.0,40,0
+Shàne Getkàte,Ireland,29,Batsman,Right-arm medium-fast,13,8.36,110.84,92,83,24,0,4,4,14,40.37,210,9.22,8,2/15,26.2,3,0
+Tyrone Kàne,Ireland,26,Batsman,Right-arm medium-fast,3,18.00,156.52,36,23,26,0,0,5,5,15.88,92,9.32,9,3/19,10.2,1,0
+Josh Littlè,Ireland,21,Batsman,Left-arm fast-medium,8,4.60,82.14,23,28,7,0,0,3,16,46.45,340,9.01,11,3/29,30.9,2,0
+Àndy McBrine,Ireland,27,Batsman,Right-arm offbreak,11,12.16,104.28,73,70,14,0,1,6,13,16.61,174,7.44,13,2/7,13.3,6,0
+Bàrry McCàrthy,Ireland,28,Batsman,Right-arm fast-medium,6,7.25,126.08,29,23,18,0,2,0,10,33.63,205,10.82,11,4/33,18.6,0,0
+Jàcob Mulder,Ireland,25,Batsman,Legbreak,4,3.00,54.54,6,11,5,0,0,0,8,16.00,174,6.62,12,4/16,14.5,2,0
+Tim Murtàgh,Ireland,39,Batsman,Right-arm fast-medium,5,13.00,104.00,26,25,12,0,1,0,14,24.92,268,7.25,13,3/23,20.6,3,0
+Kèvin O'Brièn,Ireland,37,All-rounder,Right-arm medium-fast,89,21.16,135.93,1672,1230,124,1,76,137,51,19.55,903,7.53,58,4/45,15.5,35,0
+Niàll O'Brien,Ireland,39,Wicketkeeper,Wicketkeeper,28,17.92,98.10,466,475,50,0,7,40,0,0,0,0,0,0,0,17,10
+Williàm Porterfield,Ireland,36,Batsman,Right-arm offbreak,59,20.35,111.12,1079,971,72,0,23,120,0,0,0,0,0,0,0,22,0
+Àndrew Poynter,Ireland,33,Batsman,Right-arm offbreak,14,19.90,119.02,219,184,57,0,8,21,0,0,0,0,0,0,0,2,0
+Stuàrt Poynter,Ireland,30,Wicketkeeper,Wicketkeeper,21,16.00,112.67,240,213,39,0,6,22,0,0,0,0,0,0,0,13,2
+Dàvid Rànkin,Ireland,33,Batsman,Right-arm offbreak,2,24.50,90.74,49,54,34,0,2,3,0,0,0,0,0,0,0,0,0
+Boyd Rànkin,Ireland,36,Batsman,Right-arm fast-medium,15,9.14,86.48,64,74,16,0,3,3,49,22.16,1068,6.84,55,3/16,19.4,16,0
+Jàmes Shànnon,Ireland,31,Batsman,Right-arm offbreak,8,13.87,132.14,111,84,60,0,5,12,1,0,6,11.00,0,0,0,1,0
+Sìmì Sìngh,Ireland,34,Bowler,Right-arm offbreak,23,10.89,116.29,207,178,57,0,7,13,24,23.61,362,8.22,21,3/15,17.2,7,0
+Pàul Stirling,Ireland,30,All-rounder,Right-arm offbreak,77,29.91,139.27,2124,1525,95,0,71,251,36,36.17,486,7.59,17,3/21,28.5,22,0
+Hàrry Tector,Ireland,21,Batsman,Right-arm offbreak,18,26.00,134.31,364,271,60,0,11,27,0,0,0,0,0,0,0,13,0
+Seàn Terry,England,29,Wicketkeeper,Right-arm offbreak,1,4.00,66.66,4,6,4,0,0,0,0,0,0,0,0,0,0,1,0
+Grèg Thompson,Ireland,33,Batsman,Legbreak,8,15.28,99.07,107,108,44,0,1,14,0,0,0,0,0,0,0,2,0
+Stuàrt Thompson,Ireland,29,Batsman,Right-arm medium-fast,30,14.90,129.13,328,254,56,0,14,23,30,37.22,474,8.48,18,4/18,26.3,23,0
+Lorcàn Tucker,Ireland,24,Wicketkeeper,Wicketkeeper,14,10.00,103.17,130,126,22,0,1,13,0,0,0,0,0,0,0,10,0
+Gàry Wilson,Ireland,35,Wicketkeeper,Wicketkeeper,68,21.13,104.62,1268,1212,65,0,20,108,0,0,0,0,0,0,0,40,7
+Cràig Young,Ireland,30,Batsman,Right-arm fast-medium,9,7.00,72.41,21,29,8,0,0,2,30,27.77,552,8.15,27,4/13,20.4,7,0
+Àftab Àlam,Afghanistan,28,Batsman,Right-arm medium-fast,5,1.00,22.22,2,9,1,0,0,0,12,29.45,245,7.93,11,2/23,22.2,3,0
+Àmir Hamza,Afghanistan,29,Batsman,Slow left-arm orthodox,9,10.00,105.26,40,38,21,0,1,3,33,25.06,666,6.77,30,3/39,22.2,1,0
+Àsghar Àfghan,Afghanistan,33,Batsman,Right-arm medium-fast,66,21.98,110.18,1341,1217,62,0,67,83,1,4.00,4,6.00,1,1/4,4.0,20,0
+Dàwlàt Zàdràn,Afghanistan,33,Batsman,Right-arm fast-medium,17,7.55,161.90,68,42,13,0,6,4,34,24.50,741,7.93,40,4/44,18.5,7,0
+Fareed Àhmad,Afghanistan,26,Batsman,Left-arm fast-medium,1,0,160.00,24,15,24,0,0,4,16,21.76,329,8.33,21,3/35,15.6,1,0
+Fàzàl Niàzài,Afghanistan,30,Wicketkeeper,Right-arm medium,1,12.00,80.00,12,15,12,0,0,1,1,0,6,13.00,0,0,0,0,0
+Fàzàlhàq Fàrooqi,Afghanistan,20,Wicketkeeper,Left-arm fast-medium,0,0,0,0,0,0,0,0,0,1,27.00,24,6.75,1,1/27,24.0,0,0
+Gulbàdin Nàib,Afghanistan,30,Batsman,Right-arm medium-fast,39,17.67,121.32,495,408,56,0,24,34,31,36.52,450,8.28,17,2/24,26.4,18,0
+Hàshmàtullàh Shàhidi,Afghanistan,26,Batsman,Right-arm offbreak,2,0,100.00,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+Hàzràtullàh Zàzài,Afghanistan,22,Batsman,Slow left-arm orthodox,15,40.71,155.31,570,367,162,1,40,49,0,0,0,0,0,0,0,2,0
+Ibràhim Zàdràn,Afghanistan,19,Batsman,Right-arm medium-fast,3,4.66,53.84,14,26,11,0,1,0,0,0,0,0,0,0,0,1,0
+Javed Àhmadi,Afghanistan,29,Batsman,Right-arm offbreak,2,3.00,85.71,6,7,6,0,0,1,0,0,0,0,0,0,0,0,0
+Kàrim Jànàt,Afghanistan,22,Bowler,Right-arm medium,18,16.75,113.08,268,237,53,0,12,20,27,26.41,559,8.22,29,5/11,19.2,6,0
+Kàrim Sàdiq,Afghanistan,37,Batsman,Right-arm offbreak,36,14.94,109.12,538,493,72,0,10,61,28,34.42,420,6.88,14,3/17,30.0,6,0
+Mohàmmàd Nàbi,Afghanistan,36,Batsman,Right-arm offbreak,75,21.81,145.72,1396,958,89,0,83,87,80,27.00,1618,7.20,72,4/10,22.4,45,0
+Mohàmmàd Shàhzàd,Afghanistan,34,Wicketkeeper,Wicketkeeper,65,31.22,134.81,1936,1436,118,1,72,218,0,0,0,0,0,0,0,26,28
+Mujeeb Ur Ràhmàn,Afghanistan,19,Batsman,Right-arm offbreak,3,0,100.00,8,8,8,0,0,1,19,17.72,432,6.15,25,4/15,17.2,4,0
+Nàjeeb Tàràkài,Afghanistan,Wicketkeeper,Batsman,Right-arm offbreak,12,21.50,122.85,258,210,90,0,13,21,0,0,0,0,0,0,0,3,0
+Nàjibullàh Zàdràn,Afghanistan,28,Batsman,Right-arm offbreak,54,33.12,142.28,1060,745,72,0,57,69,0,0,0,0,0,0,0,31,0
+Nàveen-ul-Hàq,Afghanistan,21,Batsman,Right-arm medium-fast,2,7.00,100.00,7,7,5,0,0,1,8,15.00,168,6.96,13,3/21,12.9,1,0
+Qais Àhmad,Afghanistan,20,Batsman,Legbreak,1,0,0,0,0,0,0,0,0,1,8.33,24,6.25,3,3/25,8.0,0,0
+Ràhmànullàh Gurbàz,Afghanistan,19,Wicketkeeper,Wicketkeeper,13,34.30,143.87,446,310,87,0,28,36,0,0,0,0,0,0,0,6,1
+Ràshid Khàn,Afghanistan,22,Batsman,Legbreak googly,26,13.76,128.77,179,139,33,0,11,11,51,12.63,1158,6.21,95,5/3,12.1,20,0
+Sàmiullàh Shinwàri,Afghanistan,33,Batsman,Legbreak,56,22.02,118.06,1013,858,61,0,37,76,38,24.57,634,6.51,28,5/13,22.6,19,0
+Sàyed Shirzàd,Afghanistan,26,Batsman,Left-arm medium,1,1.00,50.00,1,2,1,0,0,0,4,16.57,90,7.73,7,3/16,12.8,1,0
+Shàfiqullàh,Afghanistan,31,Wicketkeeper,Wicketkeeper,42,16.46,145.29,494,340,51,0,31,35,0,0,0,0,0,0,0,14,2
+Shàpoor Zàdràn,Afghanistan,33,Batsman,Left-arm fast-medium,13,3.85,41.53,27,65,13,0,3,0,36,24.51,695,7.83,37,3/40,18.7,5,0
+Sharafuddin Àshraf,Afghanistan,26,Batsman,Slow left-arm orthodox,5,7.00,93.33,28,30,18,0,1,1,9,42.20,162,7.81,5,3/27,32.4,1,0
+Usmàn Ghàni,Afghanistan,24,Batsman,Wicketkeeper,23,26.23,111.08,551,496,73,0,15,55,0,0,0,0,0,0,0,12,0
+Ziàur Ràhmàn,Afghanistan,22,Wicketkeeper,Right-arm medium-fast,0,0,0,0,0,0,0,0,0,1,21.00,24,10.50,2,2/42,12.0,0,0
